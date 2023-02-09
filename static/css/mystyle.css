@@ -1,0 +1,126 @@
+
+/* Developer: Nelson Siu nsiu@grupocargo.com */
+
+* { padding: 0;
+  margin: 0;
+}
+
+.top-nav {
+margin: 2;
+padding: 2;
+
+
+}
+
+.title { 
+  border-radius: 0% 0% 0% 0%;
+  border-color: rgb(213, 193, 193);
+  
+  color: rgb(255, 255, 255);
+  background-color: dimgray;
+
+}
+
+h4 { text-align: center;
+}
+
+
+ul { display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 1px;
+  padding: 1px;
+  overflow: hidden;
+
+}
+
+.nav {
+  border-radius: 0% 0% 30% 30%;
+  border-color: black;  
+  background-color: rgb(237, 233, 221);
+  padding:0vmax;
+  width:max-content;
+  margin:auto; 
+
+}
+
+
+li {
+  float:left;
+  text-align: center;
+  text-decoration:wavy;
+  padding: 1em;
+  margin: inline 1em;
+  vertical-align: middle;
+  
+}
+
+#ul-content li:hover {
+  background-color: #0cde75;
+  border-radius: 25%;
+}
+
+legend, fieldset {
+  font-weight: bold;
+  color: midnightblue;
+  border-radius: 5%;
+  padding: 1em;
+}
+
+button {
+  margin-left: -20px;
+}
+
+tbody:nth-child(even) {
+  background-color: #c9c9bf;
+}
+
+.section-table,#imgheader,#imgfooter,#excel_data{
+  margin-left: auto;
+  margin-right: auto;
+  border-color:rgb(63, 63, 65);  
+  /* border-style: solid; */
+  width: 30cm;
+  height: auto;
+  border-collapse: collapse;
+  
+}
+
+
+td, th {
+  border:solid black 1px; 
+  text-align: center;
+  font-size:1em;
+  height: 2em;
+}
+
+thead {
+  background-color: rgb(142, 169, 207);
+  border-top: none;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+tfoot tr td{ 
+  border:solid black 1px; 
+  text-align: left;
+  font-size:1.2em;
+  height: 2em;
+  font-weight: bold;
+  padding: 2px;
+  vertical-align: bottom;
+}
+
+/* img#image-logo {
+ border-radius: 10% 50% 10% 50%;
+} */
+
+.remito,.hora{
+  font-weight: bold;
+}
+

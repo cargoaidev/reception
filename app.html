@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMPORTADOR</title>
+    <link rel="stylesheet" href="./static/css/mystyle.css" />
+
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+
+    <script type="text/javascript" src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
+    
+
+</head>
+
+<body>
+    <div class="top-nav">
+
+
+        <div class="nav"> 
+            <div class="title">
+                <h4>
+                    IMPORTADOR
+                </h4>
+
+            </div>               
+
+            <ul id="ul-content">
+                <li>
+                    <fieldset>
+                        <legend>Paso 1: Seleccione el archivo excel</legend>
+                        <input type="file" name="excelfile" id="excel_file" multiple accept=".xlsx, .xlsm, .xls" required>
+                    </fieldset>       
+                </li>
+
+                <li>
+                    <div class="printer">
+                        <legend>Paso 2: Imprima</legend>
+                        <img src="./static/img/printer.png" alt="Imprimir" onClick='window.print()' height="50em">                   
+                        
+                    </div>
+                </li>
+                
+            </ul>
+
+        </div>
+    </div>
+
+
+    <div class="section-table" id='section-table'>
+        <div class="section-table-header-footer">
+            <img id="imgheader" src="./static/img/header.jpg" alt="Encabezado" width="1200">    
+        </div> 
+        <div class="table-header-data"> 
+            <ul> 
+                <li class="remito" id="remito"> </li> 
+                <li class="hora" id="hora"> </li>
+            </ul>
+        </div>       
+        <div id="excel_data"></div>
+                
+        <div class="section-table-header-footer">
+            <img id="imgfooter"src="./static/img/footer.jpg" alt="Footer" width="1200">    
+        </div> 
+    </div>
+
+
+
+</body>
+
+</html>
+<script src="./static/js/main.js"></script>
+
+<!-- Developer: Nelson Siu nsiu@grupocargo.com -->
+
+
