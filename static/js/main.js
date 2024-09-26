@@ -96,7 +96,7 @@ excel_file.addEventListener('change', (event) => {
          }
 
          
-         table_output += '<tfoot class="table-foot"><tr><td colspan="6">Operario (Apellido y Firma): ______________________________________________</td></tr><tr><td colspan="6">Coordinador (Apellido y Firma):  ______________________________________________</td></tr></tfoot>';
+         table_output += '<tfoot class="table-foot"><tr><td colspan="8">Operario (Apellido y Firma): ______________________________________________</td></tr><tr><td colspan="8">Coordinador (Apellido y Firma):  ______________________________________________</td></tr></tfoot>';
          table_output += '</table>';
 
          document.getElementById('excel_data').innerHTML = table_output;
