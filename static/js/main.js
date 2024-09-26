@@ -6,7 +6,7 @@ let skuData = [];
 async function jsonLoad() {
    try {
        // JSON load
-       const response = await fetch('https://raw.github.com/cargoaidev/reception/blob/main/sku/sku.json');
+       const response = await fetch('https://raw.githubusercontent.com/cargoaidev/reception/main/sku/sku.json');
        skuData = await response.json(); // global
        console.log(skuData);
 
