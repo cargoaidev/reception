@@ -7,6 +7,8 @@ async function jsonLoad() {
    try {
        // JSON load
        const response = await fetch('https://raw.githubusercontent.com/cargoaidev/reception/main/sku/sku.json');
+       //const fileId= '1daWrji-jE4_PjhSJfxfoufGwZLaNbPj8';
+       //const response = await fetch('https://drive.google.com/uc?export=download&id=1daWrji-jE4_PjhSJfxfoufGwZLaNbPj8');
        skuData = await response.json(); // global
        console.log(skuData);
 
