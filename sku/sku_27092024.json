@@ -1,4 +1,46 @@
 [
+   {
+      "sku": 31365,
+      "nombre": "PATAGONIA LARGER DEL SUR OW X6 730CC",
+      "rotacion": "B",
+      "alergeno": "NO",
+      "tipo_alergeno": "NO",
+      "estiba": "B,E,H"
+  },
+
+  {
+   "sku": 31357,
+   "nombre": "PATAGONIA LARGER DEL SUR CAN 4X6 473CC",
+   "rotacion": "B",
+   "alergeno": "NO",
+   "tipo_alergeno": "NO",
+   "estiba": "B,E,H"
+},
+{
+   "sku": 24881,
+   "nombre": "STELLA ARTOIS NOIRE PM RET X12 975CC",
+   "rotacion": "B",
+   "alergeno": "NO",
+   "tipo_alergeno": "NO",
+   "estiba": "B,E,H"
+},
+{
+   "sku": 27324,
+   "nombre": "ROCKSTAR ORANGE PET X6 500CC",
+   "rotacion": "B",
+   "alergeno": "NO",
+   "tipo_alergeno": "NO",
+   "estiba": "B,E,H"
+},
+{
+   "sku": 31074,
+   "nombre": "PDT POMELO CAN 4X6 269CC 169 BULTOS",
+   "rotacion": "B",
+   "alergeno": "NO",
+   "tipo_alergeno": "NO",
+   "estiba": "B,E,H"
+},
+
     {
         "sku": 1418,
         "nombre": "Gatorade Cool Blue 500 X 6",
