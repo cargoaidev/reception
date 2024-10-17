@@ -8,14 +8,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 30643,
-        "nombre": "PEPSI PET X9 250CC TITAN (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 21972,
         "nombre": "PEPSI 250cc x9 (2020)",
         "rotacion": "SIN",
@@ -38,14 +30,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27565,
-        "nombre": "PEPSI Black 350cc pet x12 (2023)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 285,
@@ -72,14 +56,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30650,
-        "nombre": "PEP 70 X12 350 TITAN",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 734,
         "nombre": "PEPSI LIGHT LATA    4x6",
         "rotacion": "C",
@@ -102,14 +78,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30793,
-        "nombre": "PEPSI BLACK CAN 4X6 354CC TITAN",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 30479,
@@ -152,14 +120,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30500,
-        "nombre": "PEPSI Twist Black lata 354cc 4X6  (Pal x 130)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 31069,
         "nombre": "PEPSI Twist Black lata 354cc   X6  (Pal x 520)",
         "rotacion": "A",
@@ -168,24 +128,8 @@
         "estiba": "C,F,G"
     },
     {
-        "sku": 30648,
-        "nombre": "PEPSI LATA 4X6 354 cc  TITAN(2024)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 30649,
         "nombre": "PEPSI LATA x6   TITAM 354 cc (Pal x 520) ",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 30382,
-        "nombre": "PEPSI LATA 4X6 (Pal x 130)",
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -224,14 +168,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30791,
-        "nombre": "PEPSI BLACK PET X6 500CC TITAN",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 298,
         "nombre": "PEPSI LIGHT 500cc12 PRO",
         "rotacion": "C",
@@ -248,28 +184,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 30663,
-        "nombre": "PEPSI 70Kcal. pet x6 500cc.",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 21973,
         "nombre": "PEPSI NF PET X12 500",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30642,
-        "nombre": "PEPSI PET X12 500CC TITAN",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 25668,
@@ -336,28 +256,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30644,
-        "nombre": "PEPSI 1500cc6 70 K Cal  (5 pisos x 24)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 28942,
         "nombre": "PEPSI 1500cc6 (Vintage 2023)",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30790,
-        "nombre": "PEPSI BLACK TITAN 1500cc6 (5P x 24)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 14191,
@@ -392,14 +296,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30645,
-        "nombre": "PEPSI 2000cc  70 K cal x8",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 8082,
         "nombre": "PEPSI RECO 2000cc x8",
         "rotacion": "C",
@@ -416,24 +312,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30795,
-        "nombre": "PEPSI RECO 2000cc 70 K cal x8 Nvo.",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 11039,
         "nombre": "PEPSI RECO 2000cc x8 PROMO",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30789,
-        "nombre": "PEPSI BLACK PET X8 2000CC TITAN",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -454,14 +334,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 13950,
-        "nombre": "PEPSI BLACK 2250cc  x8",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 13228,
@@ -576,14 +448,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30647,
-        "nombre": "PEPSI 3000cc x6 (x60) 70Kcal.",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 8509,
         "nombre": "PEPSI 3000cc x6 (x60) PROMO",
         "rotacion": "C",
@@ -616,14 +480,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 21970,
-        "nombre": "7UP 250cc x9  (2020)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 1439,
         "nombre": "7UP LIGHT / FREE 350cc 24",
         "rotacion": "SIN",
@@ -632,28 +488,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 27567,
-        "nombre": "7UP Free 350cc pet x12 (2023)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 811,
         "nombre": "7UP 350cc 24",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27566,
-        "nombre": "7UP 350cc pet x12 (2023)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 5637,
@@ -670,14 +510,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30478,
-        "nombre": "7UP FREE LATA 4x6 (pal x 130)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 31066,
@@ -726,14 +558,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 30481,
-        "nombre": "7UP LATA 4x6 (pal x 130)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 31068,
@@ -800,14 +624,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25638,
-        "nombre": "H2OH LIMONETO 500cc   x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 8065,
         "nombre": "H2OH LIMONETO 500cc12",
         "rotacion": "C",
@@ -832,44 +648,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 29814,
-        "nombre": "H2OH STILL s/g Manzanella 500cc  x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 29815,
-        "nombre": "H2OH STILL s/g Limoneto 500cc  x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29816,
-        "nombre": "H2OH STILL s/g Pomelada 500cc  x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 25643,
         "nombre": "7UP SinAzucar 500cc x6",
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "C,F,G"
-    },
-    {
-        "sku": 30979,
-        "nombre": "7UP FREE PET X6 500CC (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 1461,
@@ -886,30 +670,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30974,
-        "nombre": "7UP PET X6 500CC NF 2024",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 30973,
-        "nombre": "7UP 500cc 12 (2024)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 19336,
-        "nombre": "7UP 500cc 12 (2019)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 19015,
@@ -960,14 +720,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 30972,
-        "nombre": "7UP 1500cc 6 (5 pisos x24) Año 2024",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 28943,
         "nombre": "7UP 1500cc 6 (Vintage 2023)",
         "rotacion": "SIN",
@@ -1008,14 +760,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 7463,
-        "nombre": "H2OH LIMONETO 1500cc 6 (5 pisos x 24)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 8066,
         "nombre": "H2OH LIMONETO 1500cc6",
         "rotacion": "C",
@@ -1048,14 +792,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 7465,
-        "nombre": "H2OH CITRUS 1500cc6 (5 pisos x 24)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 1434,
         "nombre": "H2OH CITRUS 1500cc6",
         "rotacion": "C",
@@ -1072,14 +808,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30840,
-        "nombre": "H2OH STILL s/g Manzanella 1500cc  x6 (4 pisos)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 29818,
         "nombre": "H2OH STILL s/g Limonada 1500cc  x6",
         "rotacion": "SIN",
@@ -1088,28 +816,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30843,
-        "nombre": "H2OH STILL s/g Limonada 1500cc  x6 (4 pisos)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 29819,
         "nombre": "H2OH STILL s/g Pomelada 1500cc  x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30842,
-        "nombre": "H2OH STILL s/g Pomelada 1500cc  x6 (4 pisos)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 7484,
@@ -1126,14 +838,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 30978,
-        "nombre": "7UP FREE 1500cc6 PROMO (5 pisos x24) Año 2024",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 13,
@@ -1160,14 +864,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 19341,
-        "nombre": "7UP RECO 2000cc x8 (Cod.2019)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 11354,
         "nombre": "7UP RECO 2000cc x8 PROMO",
         "rotacion": "C",
@@ -1184,24 +880,8 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 8067,
-        "nombre": "H2OH LIMONETO 2250cc8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 18572,
         "nombre": "H2OH LIMONETO 2250cc8  PROMO",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 8125,
-        "nombre": "H2OH NARANCHELO 2250cc8",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -1214,14 +894,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 1659,
-        "nombre": "H2OH CITRUS 2250cc8 ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 5478,
@@ -1248,36 +920,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 14622,
-        "nombre": "7UP FREE RECO 2000 x8",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 8026,
         "nombre": "7UP FREE 2,25 x 4 ",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 30977,
-        "nombre": "7UP FREE 2,25 x 8 PET (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 1427,
-        "nombre": "7UP FREE 2,25 x 8 PET",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 822,
@@ -1294,14 +942,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30971,
-        "nombre": "7UP PET x 8 2250 cc (2024 )",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 8231,
@@ -1360,14 +1000,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30970,
-        "nombre": "7UP 3000cc x6 (x60) (2024)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 820,
         "nombre": "7UP 3000cc x6 (x60)",
         "rotacion": "C",
@@ -1408,22 +1040,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 31073,
-        "nombre": "PDT TONICA LATA 4X6 269CC 169 BULTOS (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 31382,
-        "nombre": "PDT TONICA S/Azucar CAN 4X6 269CC (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 23286,
         "nombre": "PDT POMELO LATA  269cc     x6",
         "rotacion": "A",
@@ -1440,14 +1056,6 @@
         "estiba": "B,E,H"
     },
     {
-        "sku": 31074,
-        "nombre": "PDT POMELO LATA LATA 269cc  4x6 269 cc 169 BUL (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 813,
         "nombre": "PDT TONICA 350cc 24",
         "rotacion": "SIN",
@@ -1456,28 +1064,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 27570,
-        "nombre": "PDT Tonica 350cc pet x12 (2023)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 1486,
         "nombre": "PDT POMELO 350cc 24 NF",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27569,
-        "nombre": "PDT Pom 350cc pet x12 (2023)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 5644,
@@ -1528,14 +1120,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25646,
-        "nombre": "PDT POMELO SIN AZUCAR 500cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 24115,
         "nombre": "PDT POMELO SIN AZUCAR 500cc 12",
         "rotacion": "C",
@@ -1550,22 +1134,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 25645,
-        "nombre": "PDT POMELO 500cc  x6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 1483,
-        "nombre": "PDT POMELO 500cc 12",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 19020,
@@ -1584,44 +1152,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25538,
-        "nombre": "PDT TONICA S/AZUCAR 1500cc 6 (5P x 24)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 7476,
-        "nombre": "PDT TONICA 1500cc 6 (5 pisos x 24)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 7475,
-        "nombre": "PDT POMELO 1500cc 6 (5 pisos x 24)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 7480,
         "nombre": "PDT POMELO LIGHT 1500cc 6 (5 pisos x 24)",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 24116,
-        "nombre": "PDT POMELO SIN AZUCAR 1500cc 6 (5 P x 24)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 24167,
@@ -1638,14 +1174,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 1473,
-        "nombre": "PDT POMELO 2250cc 8 NF",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 1475,
@@ -1696,14 +1224,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30477,
-        "nombre": "MIR NARANJA Lata 4x6 (pal x 130)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 31063,
         "nombre": "MIR Naranja Lata   x6   (Pal x 520)",
         "rotacion": "B",
@@ -1728,36 +1248,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 27568,
-        "nombre": "MIR Nar 350cc pet x12 (2023)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25194,
-        "nombre": "MIR NARANJA 500cc x6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 574,
         "nombre": "MIR NARANJA 500cc 12 PRO",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 691,
-        "nombre": "MIR NARANJA 500cc 12",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 18569,
@@ -1774,14 +1270,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25637,
-        "nombre": "MIR MANZANA 500cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 19021,
@@ -1848,36 +1336,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 7478,
-        "nombre": "MIR NARANJA 1500cc 6 (5 pisos x 24)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 28753,
-        "nombre": "MIR NARANJA 2000cc 8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 1316,
         "nombre": "MIR NARANJA 2250cc 8 PRO",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 627,
-        "nombre": "MIR NARANJA 2250cc 8",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 18562,
@@ -1896,14 +1360,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 591,
-        "nombre": "MIR MANZANA 2250cc 8 ",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 25835,
         "nombre": "MIR Fruta Tropical 2250cc 8",
         "rotacion": "SIN",
@@ -1912,44 +1368,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22619,
-        "nombre": "MIR POMELO 2250cc 8 (x60)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22618,
-        "nombre": "MIR POMELO 3000cc 6 (x60)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 10810,
-        "nombre": "MIR MANZANA 3000cc 6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 18561,
         "nombre": "MIR NARANJA 3000cc 6 (x60) Codigo Nuevo",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 8101,
-        "nombre": "MIR NARANJA 3000cc 6 (x60)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 8512,
@@ -2032,22 +1456,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 22320,
-        "nombre": "NOVECENTO Sparkling Wine Ex. DULCE 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22327,
-        "nombre": "NOVECENTO Sparkling Wine Ex. BRUT 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 76511,
         "nombre": "CALLIA Sparkling Wine 750cc x6",
         "rotacion": "SIN",
@@ -2056,40 +1464,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22328,
-        "nombre": "Vino Noncto.  RAICES Malbec 750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 22464,
         "nombre": "Vino Noncto.  RAICES Chardonnay 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22321,
-        "nombre": "Vino Noncto.  RAICES CABERNET 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22322,
-        "nombre": "Vino Espumante NEBIOLO 750cc  x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22330,
-        "nombre": "Vino Espumante GAMBA ROSSO 750cc  x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -2112,44 +1488,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22329,
-        "nombre": "Vino NOVECENTO VARIETALES Malbec 750cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 22319,
-        "nombre": "Vino NOVECENTO VARIET. CABERNET 750cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 22452,
         "nombre": "Vino NOVECENTO VARIET. CHARDONNAY 750cc x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 25640,
-        "nombre": "Vino NOVECENTO VARIET. Blend Blancas 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22947,
-        "nombre": "Vino NOVECENTO VARIET. Rosado  750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 76372,
@@ -2240,36 +1584,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77934,
-        "nombre": "Vino MALEANTE Malbec 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78078,
         "nombre": "Vino MALEANTE Red Blend 750cc x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 76386,
-        "nombre": "Vino CORDERO CON PIEL DE LOBO Malbec  750cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 76387,
-        "nombre": "Vino PERRO CALLEJERO Malbec 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 76388,
@@ -2488,22 +1808,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 28392,
-        "nombre": "Vino MANDAMAS LaMonaJimenez  x12 1000 ccc",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 28574,
-        "nombre": "Vino MANDAMAS BLANCO LaMonaJimenez  x12 1000 ccc",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 76369,
         "nombre": "Vino NORTON Cosecha Tardia BLANCO 750cc  x6",
         "rotacion": "SIN",
@@ -2560,30 +1864,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22454,
-        "nombre": "Capriccio DOLCEZZA 750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25641,
-        "nombre": "Capriccio DOLCEZZA Rosado 750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 22455,
-        "nombre": "Capriccio FIORE 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 76508,
         "nombre": "DESEADO Dulce Natural 750cc x6",
         "rotacion": "SIN",
@@ -2616,14 +1896,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 30989,
-        "nombre": "VINO MALBEC CLOS D ARGENTINE x6 750cc",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN ÚNICO ALÉRGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 76367,
         "nombre": "Vino EMILIA Nieto Senetiner MALBEC 750cc x6",
         "rotacion": "C",
@@ -2640,100 +1912,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25771,
-        "nombre": "Vino Dante Robino LEGADO Cabernet Sauvignon  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25772,
-        "nombre": "Vino Dante Robino LEGADO Blend Blancas  750cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 25769,
-        "nombre": "Vino Dante Robino WHITE BLEND  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22456,
-        "nombre": "Vino Dante Robino BONARDA  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22478,
-        "nombre": "Vino Dante Robino CABERNET  750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 22459,
-        "nombre": "Vino Dante Robino Malbec  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 22457,
         "nombre": "Vino Dante Robino Chardonnay  750cc x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 22463,
-        "nombre": "Vino Dante Robino Bonarda  750cc x6  RESERVA",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22474,
-        "nombre": "Vino Dante Robino Malbec  750cc x6  RESERVA",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22458,
-        "nombre": "Vino Dante Robino EXTRA BRUT  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22460,
-        "nombre": "Vino GRAN DANTE  -BONARDA- 750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 22461,
-        "nombre": "Vino GRAN DANTE  -MALBEC- 750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 29393,
@@ -2768,64 +1952,8 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25768,
-        "nombre": "Vino NAVE ROBINO  Cabernet  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25774,
-        "nombre": "Vino NAVE ROBINO  Extra Brut  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25776,
-        "nombre": "Vino NAVE ROBINO  Brut ROSE  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25775,
-        "nombre": "Vino NAVE ROBINO  Malbec  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 25770,
-        "nombre": "Vino NAVE ROBINO  Blend De Tintas  750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25773,
-        "nombre": "Vino NAVE ROBINO  Blend De Blancas  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 27793,
         "nombre": "Vino NAVE ROBINO  Malbec  3000cc x1 BIB (Fraccion)",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29164,
-        "nombre": "Vino NAVE ROBINO  Malbec  3000cc x4 Bag In Box",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -2896,28 +2024,12 @@
         "estiba": "B,E,H"
     },
     {
-        "sku": 22440,
-        "nombre": "1/2 TEMPLE Wolf IPA LATA 473cc   4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 22653,
         "nombre": "1/2 TEMPLE HONEY LATA 473cc  x6 ",
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "B,E,H"
-    },
-    {
-        "sku": 22442,
-        "nombre": "1/2 TEMPLE HONEY LATA 473cc   4x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 23896,
@@ -2934,14 +2046,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 28594,
-        "nombre": "1/2 TEMPLE Indie Golden LATA 473cc   4x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 24996,
@@ -2976,28 +2080,12 @@
         "estiba": "B,E,H"
     },
     {
-        "sku": 22438,
-        "nombre": "1/2 TEMPLE SCOTISH  LATA 473cc   4x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 76408,
         "nombre": "Sidra 1930 DEMI SEC lata 355cc   x 6",
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "B,E,H"
-    },
-    {
-        "sku": 76397,
-        "nombre": "Sidra 1930 DEMI SEC lata 355cc 4x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 76399,
@@ -3014,78 +2102,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 76398,
-        "nombre": "Sidra 1930 DOLCE lata 355cc 4x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 77928,
-        "nombre": "Sidra 1930 ROSE lata 355cc 4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 24964,
-        "nombre": "Sidra 1930 DEMI SEC  500cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 24965,
-        "nombre": "Sidra 1930 DOLCE SEC  500cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 24966,
-        "nombre": "Sidra 1930 PERA  500cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 24967,
-        "nombre": "Sidra 1930 DOLCE  750cc x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 24968,
-        "nombre": "Sidra 1930 DEMI SEC  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78012,
-        "nombre": "Sidra 1930 ROSE  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 24962,
-        "nombre": "Sidra 1930 PERA  750cc x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 76466,
@@ -3106,14 +2122,6 @@
     {
         "sku": 76527,
         "nombre": "Sidra DEL VALLE Lata 473cc   x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77926,
-        "nombre": "Sidra DEL VALLE Lata 473cc  4x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -3336,36 +2344,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 76363,
-        "nombre": "GIN BOSQUE 500cc x4",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 26492,
         "nombre": "GIN BOSQUE 500cc x4  con DUN -Etiq Roja-",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 77979,
-        "nombre": "GIN BOSQUE 500cc x4  (cenco) -Etiq Blanca-",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77980,
-        "nombre": "GIN BOSQUE 500cc x4  Alta Montaña",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 24969,
@@ -3392,28 +2376,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 76520,
-        "nombre": "Gin RIDER 750cc  x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78018,
         "nombre": "Gin MERLE 750cc  x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78145,
-        "nombre": "Gin GINKGO (Patagonia) 500cc x4",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 17509,
@@ -3470,14 +2438,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 19019,
-        "nombre": "1/1 Budweiser 1000cc x12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 30546,
@@ -3560,14 +2520,6 @@
         "estiba": "B,E,H"
     },
     {
-        "sku": 28691,
-        "nombre": "1/2 Budweiser LATA 710cc  4x4",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 17359,
         "nombre": "1/3 Budweiser LN 330cc x12",
         "rotacion": "C",
@@ -3578,14 +2530,6 @@
     {
         "sku": 26127,
         "nombre": "1/3 Budweiser LN 340cc  x24  OW",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 5742,
-        "nombre": "1/3 Budweiser LN 340cc  x24  RETORNABLE",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -3664,14 +2608,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 26811,
-        "nombre": "1/3 Budweiser GLOW EDITION LN 355cc   x24  (caja)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 26813,
         "nombre": "Budweiser LATA 410cc    x6    QATAR",
         "rotacion": "SIN",
@@ -3709,22 +2645,6 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30606,
-        "nombre": "STA TWOPACK VASOS BUD 2023 X2",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29921,
-        "nombre": "GIF Budweiser 2 Vasos Alum CAMPEONES QATAR",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
         "estiba": "A,D,I"
     },
     {
@@ -3816,14 +2736,6 @@
         "estiba": "B,E,H"
     },
     {
-        "sku": 19026,
-        "nombre": "1/2 Budweiser LATA 473cc 4x6 (Pal 100)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 24683,
         "nombre": "1/2 Budweiser LATA 473cc 4x6 SMK (transparente)",
         "rotacion": "C",
@@ -3848,14 +2760,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 30466,
-        "nombre": "1/2 Budweiser Lata 473 4x6 MUSICA",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 19348,
         "nombre": "1/2 Budweiser LATA 473cc 4x6 PROMO (Pal 100)",
         "rotacion": "SIN",
@@ -3864,24 +2768,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 352,
-        "nombre": "BAG IN BOX SEVEN UP  20 LTS",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 18438,
         "nombre": "BAG IN BOX H2oH Limoneto 10 LTS",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 1495,
-        "nombre": "BAG IN BOX POMELO 10 LTS NF",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -3904,24 +2792,8 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 19193,
-        "nombre": "BAG IN BOX PEPSI BLACK 10 LTS",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 14744,
         "nombre": "BAG IN BOX PEPSI MAX 10 LTS",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 353,
-        "nombre": "BAG IN BOX PEPSI 20 LTS",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -3936,60 +2808,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 31039,
-        "nombre": "CHOCOLATADA APOSTOLES X12 200 ml",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30985,
-        "nombre": "OBLEA CHOCOLATE ZUPAY x12 100gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30986,
-        "nombre": "OBLEA VAINILLA ZUPAY x12 100gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30987,
-        "nombre": "OBLEA FRUTILLA ZUPAY x12 100gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77768,
         "nombre": "PURA FRUTTA  Manzana 200cc  x18",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 77770,
-        "nombre": "PURA FRUTTA  Manzana 1L  x8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77771,
-        "nombre": "PURA FRUTTA  Naranja 1L  x8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 77790,
@@ -4016,60 +2840,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 78046,
-        "nombre": "DEL VALLE Manzana 200cc  x18",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78047,
-        "nombre": "DEL VALLE Multifruta 200cc  x18",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78048,
-        "nombre": "DEL VALLE Naranja 200cc  x18",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78173,
         "nombre": "DEL VALLE Durazno 200cc  x18",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78038,
-        "nombre": "DEL VALLE Manzana 1 Lt. x8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78044,
-        "nombre": "DEL VALLE Multifruta 1 Lt. x8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78045,
-        "nombre": "DEL VALLE Naranja 1 Lt. x8",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78165,
@@ -4082,22 +2858,6 @@
     {
         "sku": 76496,
         "nombre": "Leche en POLVO Descremada ILOLAY  800gr x12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 76503,
-        "nombre": "Leche Entera ILOLAY 1000cc x12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 76504,
-        "nombre": "Leche Descremada ILOLAY 1000cc x12",
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
@@ -4152,38 +2912,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30409,
-        "nombre": "Leche Entera APOSTOLES 1000cc x12",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 30410,
-        "nombre": "Leche Descremada APOSTOLES 1000cc x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29023,
-        "nombre": "Leche Entera ANGELITA 1000cc x12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29022,
-        "nombre": "Leche Descremada ANGELITA 1000cc x12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78213,
         "nombre": "Chocolatada LAS TRES NIÑAS 1000cc x12",
         "rotacion": "C",
@@ -4232,52 +2960,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30764,
-        "nombre": "Café LA VIRGINIA Insta. 50gr  x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77786,
         "nombre": "NESQUIK Chocolatada 200cc x24",
         "rotacion": "SIN",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 77865,
-        "nombre": "NESQUIK Chocolatada 200cc x24 Codigo  ?",
-        "rotacion": "SIN",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78215,
-        "nombre": "Cacao TODDY 180 gr. X12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30802,
-        "nombre": "MINI GALLETITAS CHIP CHOCO TODDY X36 50 GR.",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78216,
-        "nombre": "Galletas TODDY Chip Chocolate 126gr x24",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78208,
@@ -4298,38 +2986,6 @@
     {
         "sku": 78258,
         "nombre": "HILERET Clasico Forte 40g  x8  (50*0,8)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77929,
-        "nombre": "Edulcorante ABEDUL 8gr. x400",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77917,
-        "nombre": "Azucar ABEDUL Sobres (6,25 gr. X 800)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 76481,
-        "nombre": "Yerba Mate CACHAMATE Rosa  500gr x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 76479,
-        "nombre": "Yerba Mate CACHAMATE Amarilla  500gr x12",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -4368,46 +3024,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29640,
-        "nombre": "Matecocido PLAYADITO   x10 (25 x 3gr)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78260,
-        "nombre": "Yerba Mate PLAYADITO c/palo  500gr (( x5 ))",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 76476,
-        "nombre": "Yerba Mate PLAYADITO c/palo  500gr x10",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 76477,
-        "nombre": "Yerba Mate PLAYADITO c/palo  1.KG x5",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 28797,
-        "nombre": "Yerba PLAYADITO  Sin Palo 500gr  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77812,
         "nombre": "Yerba CBSE Hierbas Serranas 500gr x12",
         "rotacion": "SIN",
@@ -4424,22 +3040,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77831,
-        "nombre": "Yerba TARAGUI 500gr  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77853,
-        "nombre": "Yerba TARAGUI Sin Palo 500gr  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77835,
         "nombre": "Yerba TARAGUI 1 Kg  x10",
         "rotacion": "SIN",
@@ -4448,44 +3048,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77861,
-        "nombre": "Yerba TARAGUI 1 Kg  x10   (4 Flex)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77846,
-        "nombre": "Te Diamantado TARAGUI   x10 (25 x 2gr)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78051,
         "nombre": "Te Diamantado TARAGUI   x5 (100 x 2gr)",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78086,
-        "nombre": "Te Negro La  Virginia  10x25     7 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77843,
-        "nombre": "Matecocido TARAGUI   x10 (25 x 3gr)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78039,
@@ -4520,14 +3088,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77833,
-        "nombre": "Yerba LA MERCED \"De Campo\" 500gr x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77882,
         "nombre": "Yerba LA MERCED \"Campo Sur\" 500gr x6",
         "rotacion": "SIN",
@@ -4536,52 +3096,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77837,
-        "nombre": "Yerba UNION  500gr  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77836,
         "nombre": "Yerba UNION  1 Kg  x10",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 77832,
-        "nombre": "Yerba MAÑANITA  500gr x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77838,
-        "nombre": "Yerba MAÑANITA  1 Kg  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 28780,
-        "nombre": "Yerba BUENAS Y SANTAS  500gr  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77946,
-        "nombre": "Yerba VERDEFLOR H. Serrana  500gr  x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 76486,
@@ -4606,14 +3126,6 @@
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31406,
-        "nombre": "Yerba BOLDO Verdeflor 6 x 500gs",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78128,
@@ -4648,68 +3160,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77706,
-        "nombre": "ARROCITAS Caramel   53gr. X10",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77707,
-        "nombre": "ARROCITAS Chocolate   53gr. X10",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77709,
         "nombre": "ARROCITAS Finas Hierbas   53gr. X10",
         "rotacion": "SIN",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78219,
-        "nombre": "Barra Arroz CROWIE 12 gr. X36 (C.Negro-Frut-Limon)",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78220,
-        "nombre": "Barra Arroz CROWIE 12 gr. X36 (C.Blan-Coco-Marroc)",
-        "rotacion": "SIN",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78221,
-        "nombre": "Barra Cereal CROWIE 12 gr. X24 (Orig+Cacao)",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78222,
-        "nombre": "Snack Arroz CROWIE 50gr.  X12 (Queso-Jamon-Pizza)",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29072,
-        "nombre": "Snacks GREEN CROPS (Tomate-Arveja-Hongos) 45gr x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78218,
@@ -4768,14 +3224,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29736,
-        "nombre": "VAINILLAS POZO  148g  x14",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77697,
         "nombre": "VAINILLAS POZO  160g  x24",
         "rotacion": "SIN",
@@ -4798,14 +3246,6 @@
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78252,
-        "nombre": "Pan Dulce con Fruta MUSEL  8 x 500g",
-        "rotacion": "c",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
     },
     {
         "sku": 31587,
@@ -4856,54 +3296,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29562,
-        "nombre": "CACHAFAZ Galletas 225gr x12 (Granola-Avena-Almendra-Mani)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29563,
-        "nombre": "CACHAFAZ Galletas 225gr x12 (Avena-Pasas de uva)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29564,
-        "nombre": "CACHAFAZ Galletas 225gr x12 (Avena-Chip de chocolate)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77726,
-        "nombre": "TEREPIN Pepas Membrillo  200gr x24",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77727,
-        "nombre": "TEREPIN Pepas Membrillo  400gr x14",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 29021,
-        "nombre": "TEREPIN Pepas Frutos del bosque  300gr x14",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78281,
         "nombre": "Avena Instantanea MORIXE 300 gr. X 12",
         "rotacion": "SIN",
@@ -4918,30 +3310,6 @@
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78279,
-        "nombre": "Pan Rallado MORIXE 500 gr. X12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78280,
-        "nombre": "Rebozador MORIXE 500 gr. X12",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78282,
-        "nombre": "Harina p/Arepas MORIXE 1Kg. x20",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78025,
@@ -4968,14 +3336,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29127,
-        "nombre": "Harina para Pizzas MORIXE 10 x 1Kg",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 30493,
         "nombre": "Harina de trigo  0000  MORIXE  1Kg x10",
         "rotacion": "SIN",
@@ -4990,62 +3350,6 @@
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30411,
-        "nombre": "MOLINOS ALA  -DIPS-  (Crackers s/tacc) 100gr x10",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 78141,
-        "nombre": "MOLINOS ALA Tostadas de Arroz 150gr 24",
-        "rotacion": "C",
-        "alergeno": "SI",
-        "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 78142,
-        "nombre": "Arroz MOLINOS ALA 10 x 500g  (Largo fino) P:verde",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77811,
-        "nombre": "Arroz MOLINOS ALA 10 x 1Kg  (Largo fino)  P:verde",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 28982,
-        "nombre": "Arroz MOLINOS ALA Grano Selecto 500gr x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77818,
-        "nombre": "Arroz MOLINOS ALA Grano Selecto 1Kg x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30914,
-        "nombre": "Arroz APOSTOL  Grano Largo Fino 500 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 78002,
@@ -5096,44 +3400,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77696,
-        "nombre": "Nachos MACRITAS 90gr  x12",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 77695,
         "nombre": "Nachos MACRITAS 250gr  x15",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30325,
-        "nombre": "Papas PRINGLES Crema y Cebolla 37g  x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30323,
-        "nombre": "Papas PRINGLES Queso 37g  x12",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30324,
-        "nombre": "Papas PRINGLES Original 37g  x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 77856,
@@ -5182,38 +3454,6 @@
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 24118,
-        "nombre": "ROCKSTAR Guarana  500cc  x6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 27325,
-        "nombre": "ROCKSTAR Berry  500cc  x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 27324,
-        "nombre": "ROCKSTAR Orange  500cc  x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29802,
-        "nombre": "ROCKSTAR MIX FRUIT PET X6 1500CC",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 76440,
@@ -5272,24 +3512,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 77950,
-        "nombre": "Aceite Refinado FRITOMAC  5 Lts. x4",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78235,
         "nombre": "MANTECOL CLÁSICO X 40 111 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77951,
-        "nombre": "SAL ABEDUL X1000u 5GR",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -5440,14 +3664,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 1413,
-        "nombre": "Gatorade Naranja 500 x 6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 25454,
         "nombre": "Gatorade NARANJA 500cc x6 S/Azucar",
         "rotacion": "SIN",
@@ -5462,14 +3678,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 1416,
-        "nombre": "Gatorade Manzana 500 X 6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 1414,
@@ -5488,14 +3696,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 11522,
-        "nombre": "Gatorade Frutas TROPICALES 500 X6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 11071,
         "nombre": "Gatorade Frutas TROPICALES 500 X6  PROMO",
         "rotacion": "SIN",
@@ -5512,28 +3712,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29591,
-        "nombre": "Gatorade MARACUYA 500cc x6 S/Azucar",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 1650,
         "nombre": "Gatorade Cool Blue 500 X 6 PRO",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 1418,
-        "nombre": "Gatorade Cool Blue 500 X 6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 25452,
@@ -5550,14 +3734,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 1422,
-        "nombre": "Gatorade Fierce UVA 500 X 6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 14194,
@@ -5616,14 +3792,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 14625,
-        "nombre": "Gatorade Manzana 750cc x6  (6 x 34)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 742,
         "nombre": "Gatorade Frutas Tropicales 750cc x6",
         "rotacion": "SIN",
@@ -5632,28 +3800,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 14638,
-        "nombre": "Gatorade Frutas Tropicales 750cc x6  (6  x  34)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 743,
         "nombre": "Gatorade Cool Blue 750cc x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 14624,
-        "nombre": "Gatorade Cool Blue 750cc x6 (6 x 34)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 1425,
@@ -5672,14 +3824,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 25979,
-        "nombre": "Gatorade Manzana 1250 Pet x6 (5pisos)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 1424,
         "nombre": "Gatorade Naranja 1250 Pet x6",
         "rotacion": "SIN",
@@ -5694,14 +3838,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25978,
-        "nombre": "Gatorade Naranja 1250 Pet x6 (5 Pisos)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 8030,
@@ -5720,14 +3856,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 25981,
-        "nombre": "Gatorade Cool Blue 1250cc x6 (5pisos)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 1426,
         "nombre": "Gatorade Frutas Tropicales 1250 Pet x6",
         "rotacion": "SIN",
@@ -5742,14 +3870,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25980,
-        "nombre": "Gatorade Frutas Trop. 1250cc x6 (5 pisos)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 270,
@@ -5880,14 +4000,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 78050,
-        "nombre": "Copa de Agua Barone NADIR 490ml x12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 78049,
         "nombre": "Copa Degustacion Barone NADIR 600ml x12",
         "rotacion": "SIN",
@@ -5936,14 +4048,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 78261,
-        "nombre": "Frapera QUILMES (2022)  x10",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77894,
         "nombre": "Frapera Stella Artois (2022)  x12",
         "rotacion": "C",
@@ -5960,14 +4064,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29927,
-        "nombre": "STA FRAPERA STELLA ART x1 (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 31177,
         "nombre": "TOALLA GETORADE X 1 UNIDAD",
         "rotacion": "C",
@@ -5981,14 +4077,6 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30589,
-        "nombre": "STA PELOTA PEPSI BLACK",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
         "estiba": "A,D,I"
     },
     {
@@ -6038,30 +4126,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 2556,
-        "nombre": "Barril Quilmes 30L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 2555,
-        "nombre": "Barril Quilmes 50L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 7713,
-        "nombre": "1/3 Quilmes RETORNABLE LN 340cc x24",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 27613,
@@ -6168,14 +4232,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 25545,
-        "nombre": "1/2 Quilmes DOBLE MALTA Lata 473cc  4x6 (473)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 29254,
         "nombre": "1/2 Quilmes DOBLE MALTA Lata 473cc  4x6  PROMO",
         "rotacion": "SIN",
@@ -6194,14 +4250,6 @@
     {
         "sku": 2201,
         "nombre": "1/2 Quilmes LATA X6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 2218,
-        "nombre": "1/2 Quilmes LATA 6x4",
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -6344,14 +4392,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 30355,
-        "nombre": "GifPack Vaso QUILMES MURPHY c/ Caja 330cc  x1",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 24675,
         "nombre": "1/2 Quilmes Lata GP Hincha en casa + Vaso x5 473cc",
         "rotacion": "SIN",
@@ -6392,14 +4432,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 31242,
-        "nombre": "QUILMES CLÁSICA CAN 4x4 710 cc (Latón)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 31336,
         "nombre": "QUILMES CLÁSICA CAN  x4 710 cc  (Latón)",
         "rotacion": "C",
@@ -6422,14 +4454,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 7026,
-        "nombre": "1/1 Quilmes Cristal GREEN BOT. X12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 27139,
@@ -6486,14 +4510,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31215,
-        "nombre": "1/2 QUILMES 0%  2.0 CAN  4X6 473 cc",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 31337,
@@ -6584,14 +4600,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29718,
-        "nombre": "1/1 Quilmes Bajo Cero H.C  x12 (2023)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 13059,
         "nombre": "Barril Quilmes STOUT Slim 10 L",
         "rotacion": "SIN",
@@ -6614,14 +4622,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 13503,
-        "nombre": "1/2 Quilmes STOUT Lata  4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 13500,
@@ -6648,36 +4648,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 7030,
-        "nombre": "1/1 Quilmes Stout GREEN BOT. x 12",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 28595,
         "nombre": "1/2 Quilmes IPA Lata    x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 28263,
-        "nombre": "1/2 Quilmes IPA Lata  4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 28846,
-        "nombre": "1/1 Quilmes IPA   x 12",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 29737,
@@ -6808,28 +4784,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29743,
-        "nombre": "1/2 Quilmes 1890 LATA HC cc x24 (Físico 4x6)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 14195,
         "nombre": "1/2 Quilmes 1890 LATA cc x6",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 13224,
-        "nombre": "1/2 Quilmes 1890 LATA cc 4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 7108,
@@ -6968,14 +4928,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 21856,
-        "nombre": "1/2 Patagonia WEISSE 410cc lata  4 x 6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 25184,
         "nombre": "1/2 Patagonia IPA 24,7   lata   410cc  x6",
         "rotacion": "SIN",
@@ -7048,14 +5000,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29917,
-        "nombre": "STA TWO PACK VASOS  PATAGONIA TULIPA x2",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 27965,
         "nombre": "GIF PATAGONIA Travesia Lata 410cc x4 + Cantimplora",
         "rotacion": "SIN",
@@ -7120,14 +5064,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29930,
-        "nombre": "GifPack PATAGINIA GinkGo   Copas 450cc x2 ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 16315,
         "nombre": "1/2 Patagonia K 24,7 LATA  IPA Sauco&Miel x24",
         "rotacion": "SIN",
@@ -7142,14 +5078,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 15621,
-        "nombre": "1/2 Patagonia K 24,7 LATA  IPA  4x6  caja",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 19495,
@@ -7240,14 +5168,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 16225,
-        "nombre": "1/2 Patagonia Amber Lager lata  4 x 6 Caja",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 19493,
         "nombre": "1/2 Patagonia Amber Lager lata  x6 Nuevo",
         "rotacion": "SIN",
@@ -7282,14 +5202,6 @@
     {
         "sku": 20994,
         "nombre": "1/2 Patagonia Bohemian P    lata    x6 CARTULINA",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 20358,
-        "nombre": "1/2 Patagonia Bohemian  lata  4x6 Cartulina",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -7368,14 +5280,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 20808,
-        "nombre": "1/2 Patagonia VERA IPA lata  4 x 6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 23111,
         "nombre": "1/2 Patagonia SOLCITRA lata    x6",
         "rotacion": "SIN",
@@ -7400,14 +5304,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 29253,
-        "nombre": "1/2 Patagonia IPA ESTELAR  473cc lata  4x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 25658,
         "nombre": "1/2 Patagonia ABRAZO OSO lata    x6",
         "rotacion": "SIN",
@@ -7430,14 +5326,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31357,
-        "nombre": "1/2 PATAGONIA LAGER DEL SUR  lata 473cc 4 x 6 ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 25761,
@@ -7480,14 +5368,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 18355,
-        "nombre": "Patagonia Amber Lager 730cc Nueva Presentacion",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 10561,
         "nombre": "Patagonia Bohemian Pilsener 740cc Nva.Presentacion",
         "rotacion": "SIN",
@@ -7496,24 +5376,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 18377,
-        "nombre": "Patagonia Bohemian Pilsener 730cc Nva.Presentacion",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 10571,
         "nombre": "Patagonia Weisse 740cc Nva. Presentacion",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 18361,
-        "nombre": "Patagonia Weisse 730cc Nva. Presentacion",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -7544,22 +5408,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 18354,
-        "nombre": "Patagonia K 24,7   IPA Sauco & Miel 730cc  x6 Nvo.",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31365,
-        "nombre": "PATAGONIA LAGER DEL SUR  x6   730cc",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 18374,
         "nombre": "Patagonia PORTER 730cc",
         "rotacion": "SIN",
@@ -7574,14 +5422,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25059,
-        "nombre": "Patagonia VERA IPA 730cc x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 14996,
@@ -7608,14 +5448,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 78014,
-        "nombre": "ISIDRA Patagonia  750cc x 6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 27677,
         "nombre": "Patagonia AMBER LAGER 1000cc Retornable",
         "rotacion": "SIN",
@@ -7640,64 +5472,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 10969,
-        "nombre": "Barril Patagonia AMBER LAGER 20 L",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 12154,
-        "nombre": "Barril SLIM Patagonia Amber Lager 20L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 10970,
-        "nombre": "Barril Patagonia BOHEMIAN PILSENER 20 L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 12165,
-        "nombre": "Barril SLIM Patagonia BOHEMIAN PILSENER 20 L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 10971,
         "nombre": "Barril Patagonia WEISSE 20 L",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 12161,
-        "nombre": "Barril SLIM Patagonia WEISSE 20L",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 13504,
-        "nombre": "Barril Patagonia K24,7 20L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 12723,
-        "nombre": "Barril SLIM Patagonia K24,7  IPA Sauco&Miel 20L",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -7792,14 +5568,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 31441,
-        "nombre": "PATAGONIA LAGER DEL SUR KEG SLIM 20L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 20746,
         "nombre": "Barril Patagonia HOPPY LAGER 20L",
         "rotacion": "SIN",
@@ -7834,22 +5602,6 @@
     {
         "sku": 29783,
         "nombre": "Barril Patagonia IPA COCO 20L",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 20987,
-        "nombre": "Barril Patagonia VERA IPA 20L",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 20991,
-        "nombre": "Barril SLIM Patagonia VERA IPA 20L",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -8080,14 +5832,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 6582,
-        "nombre": "1/3 Brahma RETORNABLE LN x24 340cc",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 10628,
         "nombre": "1/3 Brahma RETORNABLE LN x24 340cc en PACK",
         "rotacion": "SIN",
@@ -8146,14 +5890,6 @@
     {
         "sku": 7651,
         "nombre": "1/2 Brahma LATA x6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 7634,
-        "nombre": "1/2 Brahma LATA 4x6",
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -8230,14 +5966,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 25352,
-        "nombre": "1/2 Brahma OW DORADA Lata 473cc 4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 25351,
@@ -8360,28 +6088,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24012,
-        "nombre": "2/3 Brahma OW DORADA Original 710cc x6",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 28839,
         "nombre": "1/1 Brahma DORADA x12 Ret",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 7038,
-        "nombre": "1/1 Brahma GREEN BOT. x12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 29789,
@@ -8480,14 +6192,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 31557,
-        "nombre": "1/2 MICHELOB ULTRA GLUT FREE CAN 4X6 473CC ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 31592,
         "nombre": "1/2 MICHELOB ULTRA GLUT FREE CAN  X6 473CC ",
         "rotacion": "C",
@@ -8542,14 +6246,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 25060,
-        "nombre": "1/2 CERVEZA 27 Lata 473cc 4x6",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 22025,
@@ -8618,22 +6314,6 @@
     {
         "sku": 29785,
         "nombre": "GOOSE LaGeR Lata 710cc   ( x4 )",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29725,
-        "nombre": "GOOSE LaGeR Lata 710cc   4x4  ",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29397,
-        "nombre": "GOOSE LaGeR OW 730cc x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -8718,22 +6398,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29740,
-        "nombre": "1/1 QUILMES 1890 RET X12 HC",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 30895,
-        "nombre": "CORONA 0.0 OW x24 330cc  (Cód Original)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 20356,
@@ -8912,28 +6576,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 26220,
-        "nombre": "1/2 Andes Or. FRESQUITA  6x4  Lata  473",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 17407,
         "nombre": "1/2 ANDES Original lata 473cc   x6 ",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 17358,
-        "nombre": "1/2 ANDES Original lata 473cc   4x6 ",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 31234,
@@ -8944,36 +6592,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 16811,
-        "nombre": "1/2 Andes Origen RUBIA 4x6 Lata  473",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 31205,
-        "nombre": "ANDES ORIGEN RUBIA 2.0 CAN 4X6 473CC (2024)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 17991,
         "nombre": "1/2 Andes Origen ROJA    x6 Lata  473",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 17932,
-        "nombre": "1/2 Andes Origen ROJA 4x6 Lata   473",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 21001,
@@ -8992,28 +6616,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 17933,
-        "nombre": "1/2 Andes Origen NEGRA 4x6 Lata 473",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 19399,
         "nombre": "1/2 Andes Origen   IPA   x6 Lata  473",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 19254,
-        "nombre": "1/2 Andes Origen   IPA   4x6 Lata 473",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 31015,
@@ -9054,14 +6662,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31206,
-        "nombre": "ANDES RUBIA 2.0 CAN 4X4 710cc. Nueva Formula",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 31233,
@@ -9110,14 +6710,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 29922,
-        "nombre": "STA TWOPACK VASOS ANDES ORIGEN",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 77820,
@@ -9184,22 +6776,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 16666,
-        "nombre": "1/1 Andes Origen NEGRA X12",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 16667,
-        "nombre": "1/1 Andes Origen ROJA X12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 16668,
         "nombre": "1/1 Andes Origen RUBIA X12",
         "rotacion": "A",
@@ -9208,40 +6784,8 @@
         "estiba": "C,F,G"
     },
     {
-        "sku": 19253,
-        "nombre": "1/1 Andes Origen IPA X12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 27580,
         "nombre": "1/1 Andes Origen FRESQUITA X12",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 7115,
-        "nombre": "1/1 Andes GREEN BOT. X12",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 31204,
-        "nombre": "1/1 Andes Origen RUBIA 2.0 (Nueva) X12",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 19545,
-        "nombre": "BARRIL Andes Origen RUBIA 20L",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -9258,14 +6802,6 @@
     {
         "sku": 19538,
         "nombre": "BARRIL Andes Origen ROJA 20L  Slim",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 19539,
-        "nombre": "BARRIL Andes Origen ROJA 20L",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -9304,28 +6840,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 16370,
-        "nombre": "1/4 RED BULL Lata 250cc   x24",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 16527,
         "nombre": "1/4 RED BULL Lata 250cc   x4",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 16371,
-        "nombre": "1/4 RED BULL Lata 250cc   6x4",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 24075,
@@ -9336,24 +6856,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24071,
-        "nombre": "1/4 RED BULL Lata 250cc   6x4  TROPICAL Edition",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 26421,
         "nombre": "1/4 RED BULL Lata 250cc   RED Edit x4",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 26422,
-        "nombre": "1/4 RED BULL Lata 250cc   6x4  RED Edition",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -9384,24 +6888,8 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 31119,
-        "nombre": "1/4 RED BULL BLUE EDITION CAN 6X4 250CC",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 16529,
         "nombre": "1/4 RED BULL Lata 250cc  FREE    x4",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 16372,
-        "nombre": "1/4 RED BULL Lata 250cc  FREE  4x6",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -9440,14 +6928,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 22256,
-        "nombre": "1/3 RED BULL Lata 355cc    6 x 4",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 19661,
         "nombre": "1/3 RED BULL Lata 355cc    x24",
         "rotacion": "SIN",
@@ -9464,28 +6944,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24925,
-        "nombre": "Barril Stella Artois 20 L PROMO 2021",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 12158,
         "nombre": "Barril SLIM Stella Artois 20L",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 24927,
-        "nombre": "Barril SLIM Stella Artois 20L PuraMalta 2022",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 27612,
@@ -9648,14 +7112,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24929,
-        "nombre": "1/3 Stella Artois PuraMalta 330 LN  4x6",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 24930,
         "nombre": "1/3 Stella Artois PuraMalta 330 LN x24 ",
         "rotacion": "SIN",
@@ -9710,14 +7166,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 28698,
-        "nombre": "1/3 Stella Artois LN 6x4 0.o% S/ALCOHOL 330cc (caja)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 15591,
@@ -9800,28 +7248,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 24878,
-        "nombre": "1/2 Stella Artois LATA 4x6  473cc PRO 2021",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 24934,
         "nombre": "1/2 Stella Artois LATA x6  473cc  PuraMalta 2022",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 24879,
-        "nombre": "1/2 Stella Artois LATA  4x6  473cc  PuraMalta 2022",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 30285,
@@ -9856,28 +7288,12 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 28315,
-        "nombre": "1/2 Stella Artois S/ALCOHOL Lata 4x6  473cc",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 27120,
         "nombre": "1/2 Stella Ar. BLANCHE LATA  (x6)  473cc",
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 26997,
-        "nombre": "1/2 Stella Ar. BLANCHE LATA 4x6  473cc",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 21867,
@@ -9910,14 +7326,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 24931,
-        "nombre": "1/2 Stella Artois NOIRE Lata  4x6  473cc  PuraMalta 2022",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
     },
     {
         "sku": 19496,
@@ -10040,30 +7448,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 29926,
-        "nombre": "STA TWOPACK COPA STELLA ART (2024)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 77915,
-        "nombre": "GIF PACK Stella Artois 2 COPAS  CHALICE (blan)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 30420,
-        "nombre": "GIF PACK Stella Artois 2 COPAS  CHALICE (FIESTAS)",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 77938,
         "nombre": "1/2 Stella Artois GIF - CUBIERTOS MADERA",
         "rotacion": "SIN",
@@ -10094,14 +7478,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 29649,
-        "nombre": "Stella Artois LATA 710cc 4x4",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 24248,
@@ -10136,28 +7512,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24881,
-        "nombre": "1/1 Stella Artois NOIRE x12  SMK 2021",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 7126,
         "nombre": "1/1 Stella Artois NOIRE x12",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27000,
-        "nombre": "1/1 Stella Artois BLANCHE x 12",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 29790,
@@ -10168,28 +7528,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 24880,
-        "nombre": "1/1 Stella Artois x 12  SMK 2021",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 2854,
         "nombre": "1/1 Stella Artois x 12",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 30894,
-        "nombre": "CORONA LN 0.0 OW 4X6 330CC",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 31264,
@@ -10280,14 +7624,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 20412,
-        "nombre": "1/3 Corona LN 330cc 4x6  (falso 24)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 21579,
         "nombre": "1/3 Corona LN 330cc     x6  OW",
         "rotacion": "SIN",
@@ -10310,14 +7646,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "A,D,I"
-    },
-    {
-        "sku": 28317,
-        "nombre": "1/3 Corona LN 330cc  x 24",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 25120,
@@ -10368,22 +7696,6 @@
         "estiba": "A,D,I"
     },
     {
-        "sku": 21862,
-        "nombre": "1/2 CORONA Lata 410cc  4x6",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 20433,
-        "nombre": "Corona OW 710cc x12 Nvo. Codigo",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 31116,
         "nombre": "CORONA OW X12 710CC  ( J. Olimpicos)",
         "rotacion": "SIN",
@@ -10398,14 +7710,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 873,
-        "nombre": "Glaciar 500cc12 s/gas",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 18066,
@@ -10440,14 +7744,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22185,
-        "nombre": "Glaciar 750cc6 s/gas  (6x37)  -  Nuevo 2020",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 17080,
         "nombre": "Glaciar 750cc6 s/gas  (6x36)",
         "rotacion": "SIN",
@@ -10480,14 +7776,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 870,
-        "nombre": "Glaciar 1500cc6 c/gas",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 871,
         "nombre": "Glaciar 1500cc6 s/gas PVTA (4 PISOS)",
         "rotacion": "SIN",
@@ -10496,28 +7784,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 8064,
-        "nombre": "Glaciar 1500cc6 s/gas PVTA (5 PISOS)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 898,
         "nombre": "Glaciar 2000cc6 s/gas (4x22)",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 899,
-        "nombre": "Glaciar 2000cc6 s/gas (5x22)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 26429,
@@ -10534,14 +7806,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 15163,
-        "nombre": "Glaciar 6300cc x2 s/gas ",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 2158,
@@ -10576,22 +7840,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 14933,
-        "nombre": "Eco Andes 500cc12 s/gas NUEVA (7x29)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
-        "sku": 22278,
-        "nombre": "Eco Andes 500cc12 s/gas PROMO (7x29)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 26431,
         "nombre": "Eco Andes 500cc12 s/gas PROMO 2022 (7x29)",
         "rotacion": "SIN",
@@ -10616,14 +7864,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22277,
-        "nombre": "Eco Andes 500cc12 C/gas PREM (7x26)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 2498,
         "nombre": "Eco Andes 500cc12 c/gas AR09",
         "rotacion": "SIN",
@@ -10632,28 +7872,12 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 14934,
-        "nombre": "Eco Andes 500cc12 Con/gas (7x29)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 25830,
         "nombre": "Eco Andes 850cc s/g x6 ",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27081,
-        "nombre": "Eco Andes 850cc s/g x6 (6 pisos de 42)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 8104,
@@ -10680,22 +7904,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 22318,
-        "nombre": "Eco Andes 1000cc s/g x6 LITRO  (6 x 32)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
-        "sku": 2439,
-        "nombre": "Eco Andes 1500cc6 s/gas (5 x 28)",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 26432,
         "nombre": "Eco Andes 1500cc6 s/gas (5 x 28) PROMO 2022",
         "rotacion": "SIN",
@@ -10710,14 +7918,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 2428,
-        "nombre": "Eco Andes 1500cc6 c/gas AR09",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 2449,
@@ -10744,14 +7944,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 21014,
-        "nombre": "Eco Andes 2000cc6 s/gas (23x5)",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 26434,
         "nombre": "Eco Andes 2000cc6 s/gas (23x5) PROMO 2022",
         "rotacion": "SIN",
@@ -10766,14 +7958,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 8126,
-        "nombre": "Nestle P.Vital 500cc12 s/gas Nva.Etiq.",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 14939,
@@ -10816,14 +8000,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 27484,
-        "nombre": "AWA FRUT Manzana 500cc12 x12 S/Azucar",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 8267,
         "nombre": "AWA FRUT Manzana VERDE 500cc x6",
         "rotacion": "SIN",
@@ -10846,14 +8022,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 27486,
-        "nombre": "AWA FRUT Nar-Dur 500cc12 x12 S/Azucar",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
     },
     {
         "sku": 8266,
@@ -10880,24 +8048,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 27485,
-        "nombre": "AWA FRUT Pomelo 500cc12 x12 S/Azucar",
-        "rotacion": "B",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "B,E,H"
-    },
-    {
         "sku": 14099,
         "nombre": "AWA FRUT LIMONADA 1650cc6 s/gas",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 26413,
-        "nombre": "AWA FRUT Manzana 1500cc6 S/Azu",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -10928,14 +8080,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 26412,
-        "nombre": "AWA FRUT Naranja Durazno 1500cc6 S/Azu",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
         "sku": 14094,
         "nombre": "AWA FRUT Naranja Durazno 1650cc6",
         "rotacion": "SIN",
@@ -10958,14 +8102,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 26414,
-        "nombre": "AWA FRUT Pomelo 1500cc6 S/Azu",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 14095,
@@ -11000,14 +8136,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 18743,
-        "nombre": "Nestle P.Vital 1500cc6 s/gas (5 x 28) 2019",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
-    },
-    {
         "sku": 13610,
         "nombre": "Nestle P.Vital 2000cc6 s/gas (4 x 22)",
         "rotacion": "SIN",
@@ -11032,14 +8160,6 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 25032,
-        "nombre": "AWA FRUT Naranja Durazno 2250cc6 s/AZUCAR",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 8263,
         "nombre": "AWA FRUT Manzana 2250cc6",
         "rotacion": "SIN",
@@ -11056,24 +8176,8 @@
         "estiba": "CONSULTAR"
     },
     {
-        "sku": 25029,
-        "nombre": "AWA FRUT Manzana 2250cc6 s/AZUCAR",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
         "sku": 14100,
         "nombre": "AWA FRUT POMELO 2250cc6 S/G",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 25035,
-        "nombre": "AWA FRUT POMELO 2250cc6 S/G s/AZUCAR",
         "rotacion": "SIN",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
@@ -11086,38 +8190,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 18744,
-        "nombre": "Nestle P.Vital 2250cc6 s/gas (5 x 20)",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 26424,
-        "nombre": "Nestle P.Vital 2250cc6 s/gas (5 x 20) PRO 2022",
-        "rotacion": "SIN",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 28532,
-        "nombre": "Nestle P.Vital 2250cc6 s/gas (4 x 20) - 2023",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 18746,
-        "nombre": "Nestle P.Vital 6300cc s/gas  PRO",
-        "rotacion": "A",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "C,F,G"
     },
     {
         "sku": 18745,
@@ -11198,46 +8270,6 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
-    },
-    {
-        "sku": 28634,
-        "nombre": "GALLETITA GRANAGUA SAND GRANIX x12 200 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 28636,
-        "nombre": "FRUTIGRAN AVENA Y PASAS x 12 250 gr ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 28637,
-        "nombre": "FRUTIGRAN C/CHIP DE CHOCOLATE x12 255 gr ",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 31415,
-        "nombre": "PAPAS FRITAS CLÁSICAS NIKITOS x 10 65 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
-    },
-    {
-        "sku": 31416,
-        "nombre": "PAPAS FRITAS CORTE AMERICANO NIKITOS x 10 65 gr",
-        "rotacion": "C",
-        "alergeno": "NO",
-        "tipo_alergeno": "NO",
-        "estiba": "A,D,I"
     },
     {
         "sku": 31458,
@@ -11374,5 +8406,3053 @@
         "alergeno": "NO",
         "tipo_alergeno": "NO",
         "estiba": "CONSULTAR"
+    },
+    {
+        "sku": 19026,
+        "nombre": "BUD CAN 4X6 473",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7475,
+        "nombre": "PT PO PET 6X1.5",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7476,
+        "nombre": "PT TON 1.5 X6P",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 8101,
+        "nombre": "MIR NAR PET3LX6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 27325,
+        "nombre": "ROCKSTAR BERRY",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 1422,
+        "nombre": "GATO UVA 500X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18744,
+        "nombre": "NV SG PTX6 2.25",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 16370,
+        "nombre": "RB REG X24 250",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7030,
+        "nombre": "1/1Q STO GB12RE",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 13503,
+        "nombre": "STOUT L473 4X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30979,
+        "nombre": "7UP SA 500 X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18355,
+        "nombre": "PATA AMBX6 730",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25059,
+        "nombre": "PAT VERA 730 X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30971,
+        "nombre": "7UP 2250 2024",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30978,
+        "nombre": "7UP SA 1,5 2024",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14638,
+        "nombre": "GAT FR T X6 750",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 2439,
+        "nombre": "ECO S/G 1.5X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 8064,
+        "nombre": "GLACI S/G 1.5X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24878,
+        "nombre": "SA PM 4X6 473CC",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30477,
+        "nombre": "MIR NAR CAN 130",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25646,
+        "nombre": "PDT PM SAX6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 1473,
+        "nombre": "PDT POM X8 2250",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25538,
+        "nombre": "PDT TON 0KC X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29816,
+        "nombre": "H2 SG PO X6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30793,
+        "nombre": "PEP BL 354",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 627,
+        "nombre": "MIR NAR 2.25X8",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24116,
+        "nombre": "PDT POM SA 1.5L",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18354,
+        "nombre": "PATA IPA X6 730",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29815,
+        "nombre": "H2 SG LI X6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29718,
+        "nombre": "QBC.HC.1L.X12",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7713,
+        "nombre": "QUI RET X24 340",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30970,
+        "nombre": "7UP X6 3L 2024",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 22327,
+        "nombre": "NVEXTRA BRUT750",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18377,
+        "nombre": "PATA BOH X6 730",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 28532,
+        "nombre": "NPV 2.25L 4 PIS",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 26424,
+        "nombre": "NPV 2.25L PROMO",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30973,
+        "nombre": "7UP 500 X12",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24012,
+        "nombre": "BRH DOR V710 X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 1483,
+        "nombre": "PDT POM X12 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30643,
+        "nombre": "PEP X9 250 TIT",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 28317,
+        "nombre": "CORONA X24 330",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 13950,
+        "nombre": "P BLACK X8 2250",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 1413,
+        "nombre": "GTNAR 500PET 6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31206,
+        "nombre": "AOR.2.0.4X4.710",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 7463,
+        "nombre": "H2O LMT X6 1500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 21970,
+        "nombre": "7UP 250 X9 NF",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30895,
+        "nombre": "CO 0.0 X24 330",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 7465,
+        "nombre": "H2OH CITR1.5LX6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 25638,
+        "nombre": "H2OH LIM X6 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 873,
+        "nombre": "GLA SG500X12 09",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30842,
+        "nombre": "H2 SG P 1.5 96B",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24931,
+        "nombre": "SAPM N 4X6 473C",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 26220,
+        "nombre": "AO FR 6X4 473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31074,
+        "nombre": "PDT POM 269 169",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 18361,
+        "nombre": "PATA WEI X6 730",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 8067,
+        "nombre": "H2OH LIMONE 225",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30840,
+        "nombre": "H2 SG M 1.5 96B",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27000,
+        "nombre": "SA B RT X12 975",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 29802,
+        "nombre": "RS MIXF X6 1.5",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 20808,
+        "nombre": "VERA L473 4X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27324,
+        "nombre": "ROCK OR X6 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 10969,
+        "nombre": "PAT AMBER 20L B",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 16372,
+        "nombre": "RB SA 6X4 250",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30500,
+        "nombre": "P TW CAN 130",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27568,
+        "nombre": "MIR NA X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27567,
+        "nombre": "7UP FR X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24925,
+        "nombre": "SA PM B20L EURO",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 2428,
+        "nombre": "ECO 1.5L C/G 09",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 77946,
+        "nombre": "VERDEFLOR HIERB",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78260,
+        "nombre": "YERBA C/PALO PL",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78047,
+        "nombre": "DV MUL 200CCX18",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 26414,
+        "nombre": "AW POM 1.5L X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 26422,
+        "nombre": "RB RED 6X4 250",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 26811,
+        "nombre": "BUD GLOW 355",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 1659,
+        "nombre": "H2OH 2.25 CITX8",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78045,
+        "nombre": "DV NAR 1000CCX8",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22321,
+        "nombre": "NVRAI CABNET750",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24929,
+        "nombre": "SA PM 330 4X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 25545,
+        "nombre": "Q DOBLE 4X6 473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 10810,
+        "nombre": "MIR MZN 3L PET",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27569,
+        "nombre": "PDT PO X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27570,
+        "nombre": "PDT TO X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78044,
+        "nombre": "DV MTF 1000CCX8",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24881,
+        "nombre": "SA N PM X12 975",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 76503,
+        "nombre": "LECHE ENTERA 1L",
+        "rotacion": "B",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 16811,
+        "nombre": "AN RU 473 4X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 13504,
+        "nombre": "PAT.IPA KEG 20L",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 12154,
+        "nombre": "20L P AMBE SLIM",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30789,
+        "nombre": "P BL 2000",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30977,
+        "nombre": "7UP FREE 2250",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31073,
+        "nombre": "PDT TON 269 169",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 19336,
+        "nombre": "7UP 500 X12 NF",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 24967,
+        "nombre": "1930 DO 6X750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31365,
+        "nombre": "PLS.X6.730",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29743,
+        "nombre": "1890 HC X24 473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22319,
+        "nombre": "N CABERNET750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 27486,
+        "nombre": "AW ND X12 0.5",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22440,
+        "nombre": "T WO I 4X6 L473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30409,
+        "nombre": "LECHE CLASICA L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31600,
+        "nombre": "H2O POM 2000",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29397,
+        "nombre": "G I LAG X6 730L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31601,
+        "nombre": "H2O LIM 2000",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30894,
+        "nombre": "CO 0.0 4X6 330",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31357,
+        "nombre": "PLS.4X6.473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31557,
+        "nombre": "MUL.GF.4X6.473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 12723,
+        "nombre": "20L P. IPA SLIM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31602,
+        "nombre": "H2O MANZ 2000",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 352,
+        "nombre": "BIB 7UP 20LTS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76398,
+        "nombre": "SID DOL 4X6 355",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28574,
+        "nombre": "MANDAMAS BLANCO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30870,
+        "nombre": "GL TERM 4X6 473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31441,
+        "nombre": "PLS.SLIM.20L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22478,
+        "nombre": "DANTE ROBINO CA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 7115,
+        "nombre": "1/1 ANDES BL GB",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 26412,
+        "nombre": "AW N-D 1.5L X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31665,
+        "nombre": "AVENA INSTANTAN",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24071,
+        "nombre": "RB TROP 6X4 250",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 20991,
+        "nombre": "PAT VERA B20L S",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 26413,
+        "nombre": "AW MANZ 1.5L X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78220,
+        "nombre": "BARRA ARR B-C-M",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24966,
+        "nombre": "1930 PE 6X0,5L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22454,
+        "nombre": "CAPR DOL X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78252,
+        "nombre": "PAN DULCE FRUTA",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31664,
+        "nombre": "REBOZADOR MORIX",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31663,
+        "nombre": "PAN RALLADO MOR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22328,
+        "nombre": "NV RAI MALBE750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29725,
+        "nombre": "GL.L710.4X4",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29164,
+        "nombre": "NAV ROB X4 BI3L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30646,
+        "nombre": "PEP X8 2,25 TIT",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31666,
+        "nombre": "HARINA AREPASX1",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 12161,
+        "nombre": "P.WEIS 20L SLIM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29253,
+        "nombre": "PA IP E 4X6 473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77928,
+        "nombre": "SID ROS 4X6 355",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77865,
+        "nombre": "NESQUIK CHOCOLA",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25035,
+        "nombre": "AW POM X6 2.25L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28594,
+        "nombre": "TEMPGOLD4X6L473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22947,
+        "nombre": "NOV ROS X6 B750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 19545,
+        "nombre": "ANDE RUB KEG20L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 19539,
+        "nombre": "AND ORI ROJ 20L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30323,
+        "nombre": "PAPAS FRITAS QU",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25772,
+        "nombre": "DR LBDB X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77696,
+        "nombre": "NACHOS X12 90G",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30411,
+        "nombre": "DIPS MOLINOS AL",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25641,
+        "nombre": "C.D.ROS X6 0.75",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22461,
+        "nombre": "G D MALB X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25770,
+        "nombre": "NR BDT X6 750CC",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77951,
+        "nombre": "SAL ABEDUL 5GR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22460,
+        "nombre": "GD BONARDA750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25060,
+        "nombre": "27 EA 473 4X6 C",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25639,
+        "nombre": "NOV.W.B X6 0.75",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31039,
+        "nombre": "CHOCOLAT APOSTO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28636,
+        "nombre": "FRUTIGRAN AVENA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28637,
+        "nombre": "FRUTIGRAN C/CHI",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 5742,
+        "nombre": "BUD 340 RET X24",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29927,
+        "nombre": "FRAPERA ST ART",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30355,
+        "nombre": "ONEPACK MURPHY",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29930,
+        "nombre": "STA COPAS GINKO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29922,
+        "nombre": "VASO ANDES",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29926,
+        "nombre": "COPA STELLA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30589,
+        "nombre": "PELOTA PEPSI",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28634,
+        "nombre": "GALLETITA GRANA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31416,
+        "nombre": "PAPAS FRITAS AM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31415,
+        "nombre": "PAPAS NIKITOX10",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76363,
+        "nombre": "BOS GIN X4 0.5L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31406,
+        "nombre": "YERBA BOLDO VER",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 7038,
+        "nombre": "1/1BR GB12 RQA",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30795,
+        "nombre": "PEP R 2 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30642,
+        "nombre": "PEP X12 500 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 20433,
+        "nombre": "CORONA 710 X12",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7634,
+        "nombre": "1/2LT BRAH 4X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 19019,
+        "nombre": "BUD RET X12 100",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 19341,
+        "nombre": "7UP RECO2LX8 NF",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30645,
+        "nombre": "PEP X8 2L TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 2218,
+        "nombre": "1/2 QUILMES 4X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 7026,
+        "nombre": "1/1Q CLASIC X12",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24880,
+        "nombre": "SA PM X12 975",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30648,
+        "nombre": "PEP 4X6 354 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 1416,
+        "nombre": "GT MAN PET500 6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30663,
+        "nombre": "PEP X6 500 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30790,
+        "nombre": "P BL 1500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 31204,
+        "nombre": "AOR.2.0.X12.1L",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18746,
+        "nombre": "NPV SG 6.3LX2PR",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30791,
+        "nombre": "P BL 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30644,
+        "nombre": "PEP X6 1,5 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 1418,
+        "nombre": "GT CBL PET500 6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 15163,
+        "nombre": "GLACIAR 6.3L X2",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24118,
+        "nombre": "ROCKS 0.5L X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25979,
+        "nombre": "GT MANZ 1.25X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 28691,
+        "nombre": "BUD 4X4 L710",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29917,
+        "nombre": "VASOS TULIPA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 899,
+        "nombre": "GLACIAR 2 LTS S",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 20412,
+        "nombre": "CORONA 330 6X4",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24962,
+        "nombre": "1930 PE X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24968,
+        "nombre": "1930 DS 6X750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 16667,
+        "nombre": "1/1 ANDES ROJA2",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 16371,
+        "nombre": "RB REG 6X4 250",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 11522,
+        "nombre": "GT F TROPX6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 691,
+        "nombre": "MIR NAR 500X12",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31205,
+        "nombre": "AOR.2.0.4X6.473",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30972,
+        "nombre": "7UP 1500 2024",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29740,
+        "nombre": "Q1890 HC 1L",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 19253,
+        "nombre": "1/1 ANDES IPA",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30481,
+        "nombre": "7UP NF CAN 130",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30647,
+        "nombre": "PEP X6 3000 TIT",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14933,
+        "nombre": "ECO SG 500PET12",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25981,
+        "nombre": "GT CBL 1.25 X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 8126,
+        "nombre": "NPV SG 0.5X12 P",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30974,
+        "nombre": "7UP NF X6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 30606,
+        "nombre": "TWOPACK BUD",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25980,
+        "nombre": "GT FTR 1.25 X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 25352,
+        "nombre": "BR DORA 473 4X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22329,
+        "nombre": "NV MALBEC 750X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 17932,
+        "nombre": "AO ROJ 4X6 L473",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 21014,
+        "nombre": "ECO 2L S/G X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14625,
+        "nombre": "GATO MAN X6 750",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 18743,
+        "nombre": "NPV SG PEX6 1.5",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 19254,
+        "nombre": "AN IPA 473 4X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14624,
+        "nombre": "GT CBLUEX6 750P",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 21862,
+        "nombre": "CORO 410 4X6 6P",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 29649,
+        "nombre": "SA.4X4.710CC",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 6582,
+        "nombre": "BRAH_RET_X24_0.",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14934,
+        "nombre": "ECO CG 500PET12",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 28846,
+        "nombre": "QUI IPA X12 1L",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 25645,
+        "nombre": "PDT POM X6 500",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 24879,
+        "nombre": "SA PM 4X6TR 473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31215,
+        "nombre": "Q0.2.0.4X6.473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 25194,
+        "nombre": "MIR NAR 0.5L X6",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 14622,
+        "nombre": "7UP FREE RECOX8",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30650,
+        "nombre": "PEP X12 350 TIT",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 31242,
+        "nombre": "QC.4X4.710",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 7478,
+        "nombre": "MIR NAR 1.5L X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 25978,
+        "nombre": "GT NAR 1.25 X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 26997,
+        "nombre": "SA BLA 4X6 L473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22185,
+        "nombre": "GLA SG X6 750PC",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27484,
+        "nombre": "AW MANZ X12 0.5",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 29591,
+        "nombre": "GAT MARA X6 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 29814,
+        "nombre": "H2 SG MZ X6 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27565,
+        "nombre": "PEP BL X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 1427,
+        "nombre": "7UP SA 2.25X8P",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22278,
+        "nombre": "ECO P SGX12 203",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22618,
+        "nombre": "MIR POM X6 3L",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30478,
+        "nombre": "7UP CAN F 130",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78014,
+        "nombre": "ISIDRA 750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28315,
+        "nombre": "SA 0% 4X6 L473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 17933,
+        "nombre": "AO NEG 4X6 L473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27485,
+        "nombre": "AW POM X12 0.5",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 76476,
+        "nombre": "PLAYADITX10 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 15621,
+        "nombre": "PT 24.7 4X6CART",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27081,
+        "nombre": "ECO ORIGEN 252B",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30843,
+        "nombre": "H2 SG L 1.5 96B",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22277,
+        "nombre": "ECO P CGX12 182",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 27566,
+        "nombre": "7 UP X12 P350",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22318,
+        "nombre": "ECO SG X6 1000",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 17358,
+        "nombre": "ANDES CAN 4X6",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 16225,
+        "nombre": "P.AMBER 4X6CART",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 28263,
+        "nombre": "Q IPA 4X6 L473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 591,
+        "nombre": "MIRMANZ2.25PET8",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 353,
+        "nombre": "BIB PEPSI 20L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28392,
+        "nombre": "VINO MANDAMAS",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 78012,
+        "nombre": "1930 ROSE 750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31382,
+        "nombre": "TON SA 269 13P",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28698,
+        "nombre": "SA O.0 4X6 B330",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22320,
+        "nombre": "NV EXT DULC 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25637,
+        "nombre": "MIR MZA X6 500",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22619,
+        "nombre": "MI POM X8 2250L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22256,
+        "nombre": "RB CAN 6X4 355C",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 76386,
+        "nombre": "CO CPL M X6 750",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 29564,
+        "nombre": "GALLE AVENA Y C",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 19193,
+        "nombre": "PEP BLA BIB 10L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77979,
+        "nombre": "GB NUEVO X4 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30410,
+        "nombre": "LECHE DESC APOS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76477,
+        "nombre": "PLAYADITO 1KGX5",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29563,
+        "nombre": "GALLE AVENA Y P",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 8125,
+        "nombre": "H2O NACH 2.25L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 1495,
+        "nombre": "BIB POM 10 LTS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22459,
+        "nombre": "D ROB MALB750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78142,
+        "nombre": "ARROZ LF MOLINO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 21856,
+        "nombre": "WEIS 410 4X6 6P",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30914,
+        "nombre": "ARROZ LF APOSTO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 2555,
+        "nombre": "50L BARR QC",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 31119,
+        "nombre": "RB BLUE 250 6X4",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 22438,
+        "nombre": "T SCOT 4X6 L473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77771,
+        "nombre": "JUGO NARANJA 1L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29023,
+        "nombre": "LECHE LIV ANGEL",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 20358,
+        "nombre": "BOHE L473 4X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77929,
+        "nombre": "EDULCORANTEX400",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78215,
+        "nombre": "CACAO TODDY X12",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78048,
+        "nombre": "DV NAR 200CCX18",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76397,
+        "nombre": "SID DS 4X6 355",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76520,
+        "nombre": "GIN RID X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76387,
+        "nombre": "PER CAL X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22458,
+        "nombre": "D ROB EX X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77831,
+        "nombre": "TARAGUI 500GR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22442,
+        "nombre": "T HONE 4X6 L473",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77832,
+        "nombre": "MAÑANITA 500GR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78222,
+        "nombre": "SNACK ARR PIZZA",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25640,
+        "nombre": "NOV BDB X6 0,75",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30324,
+        "nombre": "PRINGLES ORG 37",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78216,
+        "nombre": "GALLE CHIP TODD",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77980,
+        "nombre": "BOS AM X4 B500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28982,
+        "nombre": "ARR PERBOIL 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 870,
+        "nombre": "GLAC C/G 1.5X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78086,
+        "nombre": "TE NEGRO LV6X20",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78145,
+        "nombre": "GINKGO 500CC X4",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29640,
+        "nombre": "MATE COCIDO SAQ",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77843,
+        "nombre": "MATECOCIDO DIAM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29022,
+        "nombre": "LECHE UAT PARC",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30325,
+        "nombre": "PRINGLES CR 39G",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77846,
+        "nombre": "TE DIAMANT X250",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77917,
+        "nombre": "AZUCAR ABEDUL",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24965,
+        "nombre": "1930 DO 6X500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24964,
+        "nombre": "1930 DS 6X500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29127,
+        "nombre": "HARINA PIZZ MOR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22456,
+        "nombre": "D RB BON X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78038,
+        "nombre": "DV MZN 1000CCX8",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77727,
+        "nombre": "PEPAS MEM 400G",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78279,
+        "nombre": "PAN RALL MORIXE",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30802,
+        "nombre": "MINI GALL TODDY",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29021,
+        "nombre": "PEPAS FB TEREPI",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22322,
+        "nombre": "NEBIO AM X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25032,
+        "nombre": "AW N-D X6 2.25L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30764,
+        "nombre": "CAFE INST 50G",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78219,
+        "nombre": "BARRA ARROZ FRU",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25775,
+        "nombre": "NR MALB X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29562,
+        "nombre": "GALLE GRANOLA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77726,
+        "nombre": "PEPAS MEMB 200G",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77833,
+        "nombre": "LA MERCED CAMPO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77934,
+        "nombre": "MALEANTE MALBEC",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77811,
+        "nombre": "ARROZ SELECTO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78221,
+        "nombre": "CEREAL CACAO OR",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25029,
+        "nombre": "AW MANZ X6 2.25",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30989,
+        "nombre": "VINO MALB CLOS",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN ÚNICO ALÉRGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77706,
+        "nombre": "ARROCITAS CARAM",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78050,
+        "nombre": "COPA AGUA NADIR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77707,
+        "nombre": "ARROCITAS CHOCO",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77926,
+        "nombre": "SI DV 4X6 473CC",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28780,
+        "nombre": "YB BUENAS Y SAN",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78280,
+        "nombre": "REBOZADOR MORIX",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25776,
+        "nombre": "NR ROS X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29736,
+        "nombre": "VAINILLAS 148GR",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78141,
+        "nombre": "TOST ARR MOLINO",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "MULTIALERGENOS",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77818,
+        "nombre": "ARROZ PARBOLI S",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22474,
+        "nombre": "DR LEG MALB X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28797,
+        "nombre": "YB S/PALO PLAYA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22463,
+        "nombre": "DR BONARDA750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25773,
+        "nombre": "NR BDB X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22455,
+        "nombre": "CAPRI FIO 750X6",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25768,
+        "nombre": "NR C.S. X6 0.75",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77837,
+        "nombre": "YERBA UNION 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25771,
+        "nombre": "DR LCS X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77770,
+        "nombre": "JUGO MANZANA 1L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25774,
+        "nombre": "NR EB X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78046,
+        "nombre": "DV MZN 200CCX18",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77838,
+        "nombre": "YERBA MAÑANITA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76481,
+        "nombre": "CACHAM RX12 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77950,
+        "nombre": "ACEITE REFINADO",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 25769,
+        "nombre": "DR WB X6 0.75",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 22330,
+        "nombre": "ROBIN GR X6 750",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76479,
+        "nombre": "CAHCA AMX12 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 29072,
+        "nombre": "MIX GREENCROPS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77861,
+        "nombre": "TARAGUI 1KG 4F",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 76504,
+        "nombre": "LECHE DESC 1LT",
+        "rotacion": "C",
+        "alergeno": "SI",
+        "tipo_alergeno": "CON UN UNICO ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30986,
+        "nombre": "OBLEA VAI ZUPAY",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30987,
+        "nombre": "OBLEA FRUT ZUPA",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30985,
+        "nombre": "OBLEA CHO ZUPAY",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78282,
+        "nombre": "HARINA AREPAS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 16666,
+        "nombre": "1/1 ANDES NEGRA",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 30466,
+        "nombre": "BUD.MUS.4X6.473",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 13224,
+        "nombre": "Q 1890 4X6 L473",
+        "rotacion": "B",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "B,E,H"
+    },
+    {
+        "sku": 12165,
+        "nombre": "20L P. BOH SLIM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 20987,
+        "nombre": "PAT VERA B20L E",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 10970,
+        "nombre": "PATA BOH KEG20L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 2556,
+        "nombre": "30L BARR QC",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 24927,
+        "nombre": "SA PM B20L SLIM",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 28753,
+        "nombre": "MIR NAR X8 2L",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30382,
+        "nombre": "PEP 4X6 354CC",
+        "rotacion": "A",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "C,F,G"
+    },
+    {
+        "sku": 29921,
+        "nombre": "STA BUD ALUCUP",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "SIN ALERGENO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 30420,
+        "nombre": "TWOPACK FIESTAS",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77915,
+        "nombre": "STA CHALICE STE",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 78261,
+        "nombre": "STA FRAPERA QUI",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
+    },
+    {
+        "sku": 77853,
+        "nombre": "YM TARAG SP 500",
+        "rotacion": "C",
+        "alergeno": "NO",
+        "tipo_alergeno": "NO",
+        "estiba": "A,D,I"
     }
 ]
