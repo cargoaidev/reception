@@ -5,7 +5,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21972,
@@ -21,7 +21,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 810,
@@ -37,7 +37,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 808,
@@ -61,7 +61,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5643,
@@ -69,7 +69,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16137,
@@ -93,7 +93,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 27782,
@@ -101,7 +101,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29644,
@@ -125,7 +125,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30649,
@@ -133,7 +133,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 31187,
@@ -141,7 +141,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 23902,
@@ -173,7 +173,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 50,
@@ -181,7 +181,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21973,
@@ -205,7 +205,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21741,
@@ -213,7 +213,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 189,
@@ -221,7 +221,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1105,
@@ -229,7 +229,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7481,
@@ -237,7 +237,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 55,
@@ -245,7 +245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19086,
@@ -269,7 +269,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 11035,
@@ -277,7 +277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7482,
@@ -301,7 +301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19088,
@@ -317,7 +317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 659,
@@ -333,7 +333,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 13228,
@@ -341,7 +341,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 196,
@@ -349,7 +349,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1620,
@@ -357,7 +357,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 823,
@@ -365,7 +365,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19087,
@@ -381,7 +381,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 462,
@@ -389,7 +389,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 738,
@@ -397,7 +397,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5547,
@@ -405,7 +405,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18559,
@@ -413,7 +413,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21966,
@@ -421,7 +421,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8510,
@@ -429,7 +429,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8021,
@@ -437,7 +437,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19089,
@@ -453,7 +453,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 311,
@@ -461,7 +461,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 204,
@@ -469,7 +469,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8408,
@@ -477,7 +477,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1439,
@@ -517,7 +517,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 5641,
@@ -525,7 +525,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 701,
@@ -533,7 +533,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23903,
@@ -557,7 +557,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31068,
@@ -565,7 +565,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 23285,
@@ -573,7 +573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 14190,
@@ -581,7 +581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8273,
@@ -589,7 +589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 11353,
@@ -597,7 +597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 11880,
@@ -605,7 +605,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5483,
@@ -613,7 +613,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1411,
@@ -621,7 +621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8065,
@@ -629,7 +629,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1433,
@@ -645,7 +645,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25643,
@@ -653,7 +653,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1461,
@@ -677,7 +677,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 487,
@@ -685,7 +685,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1106,
@@ -693,7 +693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19,
@@ -701,7 +701,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19337,
@@ -717,7 +717,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28943,
@@ -733,7 +733,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7468,
@@ -749,7 +749,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7464,
@@ -757,7 +757,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8066,
@@ -765,7 +765,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8230,
@@ -773,7 +773,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1410,
@@ -781,7 +781,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7466,
@@ -797,7 +797,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29817,
@@ -829,7 +829,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1455,
@@ -837,7 +837,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 13,
@@ -845,7 +845,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19340,
@@ -853,7 +853,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8081,
@@ -861,7 +861,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 11354,
@@ -869,7 +869,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 13498,
@@ -877,7 +877,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18572,
@@ -885,7 +885,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1658,
@@ -901,7 +901,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 498,
@@ -909,7 +909,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 463,
@@ -917,7 +917,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8026,
@@ -925,7 +925,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 822,
@@ -933,7 +933,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19338,
@@ -949,7 +949,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 737,
@@ -957,7 +957,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17097,
@@ -965,7 +965,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21965,
@@ -973,7 +973,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18558,
@@ -981,7 +981,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29233,
@@ -1005,7 +1005,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8411,
@@ -1013,7 +1013,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8412,
@@ -1029,7 +1029,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21698,
@@ -1045,7 +1045,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 21699,
@@ -1053,7 +1053,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 813,
@@ -1077,7 +1077,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 744,
@@ -1085,7 +1085,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 731,
@@ -1093,7 +1093,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5645,
@@ -1101,7 +1101,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5322,
@@ -1109,7 +1109,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5301,
@@ -1117,7 +1117,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24115,
@@ -1125,7 +1125,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1606,
@@ -1133,7 +1133,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19020,
@@ -1141,7 +1141,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24168,
@@ -1149,7 +1149,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7480,
@@ -1157,7 +1157,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24167,
@@ -1165,7 +1165,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20668,
@@ -1173,7 +1173,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1475,
@@ -1181,7 +1181,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29231,
@@ -1205,7 +1205,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5646,
@@ -1229,7 +1229,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 18560,
@@ -1237,7 +1237,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 816,
@@ -1253,7 +1253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18569,
@@ -1277,7 +1277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22969,
@@ -1285,7 +1285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19022,
@@ -1293,7 +1293,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 209,
@@ -1301,7 +1301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1311,
@@ -1309,7 +1309,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25135,
@@ -1317,7 +1317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1310,
@@ -1325,7 +1325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18565,
@@ -1341,7 +1341,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18562,
@@ -1349,7 +1349,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 622,
@@ -1373,7 +1373,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8512,
@@ -1381,7 +1381,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8083,
@@ -1397,7 +1397,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22467,
@@ -1405,7 +1405,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22469,
@@ -1413,7 +1413,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24717,
@@ -1453,7 +1453,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76511,
@@ -1469,7 +1469,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24226,
@@ -1477,7 +1477,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24343,
@@ -1493,7 +1493,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76372,
@@ -1501,7 +1501,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76357,
@@ -1509,7 +1509,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76484,
@@ -1517,7 +1517,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76375,
@@ -1533,7 +1533,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76471,
@@ -1549,7 +1549,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76506,
@@ -1573,7 +1573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77994,
@@ -1605,7 +1605,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77870,
@@ -1621,7 +1621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77874,
@@ -1669,7 +1669,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76459,
@@ -1677,7 +1677,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76461,
@@ -1685,7 +1685,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78071,
@@ -1693,7 +1693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78072,
@@ -1701,7 +1701,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77684,
@@ -1741,7 +1741,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78031,
@@ -1749,7 +1749,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76483,
@@ -1765,7 +1765,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76510,
@@ -1773,7 +1773,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77677,
@@ -1797,7 +1797,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77867,
@@ -1805,7 +1805,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76369,
@@ -1821,7 +1821,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76457,
@@ -1829,7 +1829,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76462,
@@ -1893,7 +1893,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76367,
@@ -1901,7 +1901,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76390,
@@ -1909,7 +1909,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22457,
@@ -1917,7 +1917,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29393,
@@ -1941,7 +1941,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17504,
@@ -1949,7 +1949,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 27793,
@@ -1997,7 +1997,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17105,
@@ -2005,7 +2005,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17514,
@@ -2013,7 +2013,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22652,
@@ -2021,7 +2021,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22653,
@@ -2029,7 +2029,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 23896,
@@ -2037,7 +2037,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23264,
@@ -2045,7 +2045,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24996,
@@ -2069,7 +2069,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22468,
@@ -2077,7 +2077,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 76408,
@@ -2085,7 +2085,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 76399,
@@ -2093,7 +2093,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76409,
@@ -2109,7 +2109,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76467,
@@ -2117,7 +2117,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76527,
@@ -2125,7 +2125,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76528,
@@ -2141,7 +2141,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77922,
@@ -2173,7 +2173,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77777,
@@ -2181,7 +2181,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77779,
@@ -2189,7 +2189,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77776,
@@ -2197,7 +2197,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78124,
@@ -2269,7 +2269,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76344,
@@ -2301,7 +2301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76376,
@@ -2309,7 +2309,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76370,
@@ -2317,7 +2317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76413,
@@ -2325,7 +2325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77738,
@@ -2333,7 +2333,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77740,
@@ -2357,7 +2357,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76419,
@@ -2365,7 +2365,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76446,
@@ -2373,7 +2373,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78018,
@@ -2389,7 +2389,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17516,
@@ -2397,7 +2397,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17508,
@@ -2405,7 +2405,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17110,
@@ -2413,7 +2413,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24529,
@@ -2421,7 +2421,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24540,
@@ -2437,7 +2437,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30546,
@@ -2445,7 +2445,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20998,
@@ -2453,7 +2453,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 17094,
@@ -2461,7 +2461,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23232,
@@ -2493,7 +2493,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26391,
@@ -2509,7 +2509,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28735,
@@ -2517,7 +2517,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 17359,
@@ -2525,7 +2525,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26127,
@@ -2573,7 +2573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17095,
@@ -2581,7 +2581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17093,
@@ -2589,7 +2589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20175,
@@ -2597,7 +2597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25223,
@@ -2645,7 +2645,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26810,
@@ -2669,7 +2669,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23271,
@@ -2677,7 +2677,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24676,
@@ -2685,7 +2685,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20498,
@@ -2693,7 +2693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21507,
@@ -2701,7 +2701,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 993,
@@ -2709,7 +2709,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17850,
@@ -2717,7 +2717,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17091,
@@ -2725,7 +2725,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19259,
@@ -2733,7 +2733,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24683,
@@ -2741,7 +2741,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28229,
@@ -2757,7 +2757,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19348,
@@ -2773,7 +2773,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 945,
@@ -2781,7 +2781,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 425,
@@ -2789,7 +2789,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 14744,
@@ -2797,7 +2797,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 946,
@@ -2805,7 +2805,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77768,
@@ -2821,7 +2821,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28738,
@@ -2861,7 +2861,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76505,
@@ -2869,7 +2869,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76499,
@@ -2877,7 +2877,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76500,
@@ -2885,7 +2885,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77782,
@@ -2917,7 +2917,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29024,
@@ -2989,7 +2989,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78288,
@@ -3069,7 +3069,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77842,
@@ -3253,7 +3253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31498,
@@ -3261,7 +3261,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29585,
@@ -3317,7 +3317,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29125,
@@ -3517,7 +3517,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22055,
@@ -3589,7 +3589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29452,
@@ -3597,7 +3597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29453,
@@ -3605,7 +3605,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29454,
@@ -3613,7 +3613,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31075,
@@ -3621,7 +3621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24252,
@@ -4053,7 +4053,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78070,
@@ -4069,7 +4069,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30473,
@@ -4077,7 +4077,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18664,
@@ -4101,7 +4101,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18347,
@@ -4125,7 +4125,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 27613,
@@ -4229,7 +4229,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29254,
@@ -4253,7 +4253,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25087,
@@ -4437,7 +4437,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 2119,
@@ -4517,7 +4517,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7174,
@@ -4621,7 +4621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 13500,
@@ -4653,7 +4653,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29737,
@@ -4661,7 +4661,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 2569,
@@ -4693,7 +4693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16986,
@@ -4789,7 +4789,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7108,
@@ -4909,7 +4909,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21847,
@@ -4917,7 +4917,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25227,
@@ -4925,7 +4925,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25184,
@@ -4965,7 +4965,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26206,
@@ -5077,7 +5077,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19495,
@@ -5165,7 +5165,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19493,
@@ -5205,7 +5205,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 18681,
@@ -5277,7 +5277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23111,
@@ -5301,7 +5301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25658,
@@ -5893,7 +5893,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 28256,
@@ -5917,7 +5917,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 27086,
@@ -5949,7 +5949,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29787,
@@ -5957,7 +5957,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25384,
@@ -5965,7 +5965,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25351,
@@ -6197,7 +6197,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16712,
@@ -6245,7 +6245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22025,
@@ -6285,7 +6285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22484,
@@ -6573,7 +6573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17407,
@@ -6581,7 +6581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31234,
@@ -6589,7 +6589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 17991,
@@ -6597,7 +6597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21001,
@@ -6613,7 +6613,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19399,
@@ -6621,7 +6621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31015,
@@ -6629,7 +6629,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30467,
@@ -6669,7 +6669,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 23110,
@@ -6781,7 +6781,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 27580,
@@ -6845,7 +6845,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24075,
@@ -6861,7 +6861,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29798,
@@ -6885,7 +6885,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16529,
@@ -6925,7 +6925,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19661,
@@ -7165,7 +7165,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 15591,
@@ -7245,7 +7245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24934,
@@ -7253,7 +7253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30285,
@@ -7269,7 +7269,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 23318,
@@ -7285,7 +7285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 27120,
@@ -7293,7 +7293,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21867,
@@ -7325,7 +7325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19496,
@@ -7469,7 +7469,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29709,
@@ -7477,7 +7477,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24248,
@@ -7541,7 +7541,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31018,
@@ -7581,7 +7581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21863,
@@ -7621,7 +7621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21579,
@@ -7645,7 +7645,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25120,
@@ -7693,7 +7693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31116,
@@ -8229,7 +8229,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28838,
@@ -8237,7 +8237,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31419,
@@ -8245,7 +8245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31423,
@@ -8253,7 +8253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7236,
@@ -8261,7 +8261,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 10716,
@@ -8277,7 +8277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31459,
@@ -8285,7 +8285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31460,
@@ -8293,7 +8293,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31461,
@@ -8301,7 +8301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31462,
@@ -8309,7 +8309,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31555,
@@ -8317,7 +8317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31554,
@@ -8325,7 +8325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31553,
@@ -8333,7 +8333,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31551,
@@ -8341,7 +8341,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31552,
@@ -8349,7 +8349,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 11503,
@@ -8413,7 +8413,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7475,
@@ -8421,7 +8421,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7476,
@@ -8429,7 +8429,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 8101,
@@ -8437,7 +8437,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 27325,
@@ -8445,7 +8445,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1422,
@@ -8453,7 +8453,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18744,
@@ -8461,7 +8461,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 16370,
@@ -8469,7 +8469,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7030,
@@ -8477,7 +8477,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 13503,
@@ -8485,7 +8485,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30979,
@@ -8493,7 +8493,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18355,
@@ -8501,7 +8501,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25059,
@@ -8509,7 +8509,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30971,
@@ -8517,7 +8517,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30978,
@@ -8525,7 +8525,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14638,
@@ -8533,7 +8533,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 2439,
@@ -8541,7 +8541,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 8064,
@@ -8549,7 +8549,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24878,
@@ -8557,7 +8557,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30477,
@@ -8565,7 +8565,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25646,
@@ -8573,7 +8573,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1473,
@@ -8581,7 +8581,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25538,
@@ -8589,7 +8589,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29816,
@@ -8597,7 +8597,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30793,
@@ -8605,7 +8605,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 627,
@@ -8613,7 +8613,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24116,
@@ -8621,7 +8621,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18354,
@@ -8629,7 +8629,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29815,
@@ -8637,7 +8637,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29718,
@@ -8645,7 +8645,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7713,
@@ -8653,7 +8653,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30970,
@@ -8661,7 +8661,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 22327,
@@ -8669,7 +8669,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18377,
@@ -8677,7 +8677,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 28532,
@@ -8685,7 +8685,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 26424,
@@ -8693,7 +8693,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30973,
@@ -8701,7 +8701,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24012,
@@ -8709,7 +8709,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 1483,
@@ -8717,7 +8717,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30643,
@@ -8725,7 +8725,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 28317,
@@ -8733,7 +8733,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 13950,
@@ -8741,7 +8741,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 1413,
@@ -8749,7 +8749,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31206,
@@ -8757,7 +8757,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 7463,
@@ -8765,7 +8765,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 21970,
@@ -8773,7 +8773,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30895,
@@ -8781,7 +8781,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 7465,
@@ -8789,7 +8789,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 25638,
@@ -8797,7 +8797,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 873,
@@ -8805,7 +8805,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30842,
@@ -8813,7 +8813,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24931,
@@ -8821,7 +8821,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 26220,
@@ -8829,7 +8829,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31074,
@@ -8837,7 +8837,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 18361,
@@ -8845,7 +8845,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 8067,
@@ -8853,7 +8853,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30840,
@@ -8861,7 +8861,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27000,
@@ -8869,7 +8869,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 29802,
@@ -8877,7 +8877,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 20808,
@@ -8885,7 +8885,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27324,
@@ -8893,7 +8893,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 10969,
@@ -8901,7 +8901,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 16372,
@@ -8909,7 +8909,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30500,
@@ -8917,7 +8917,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27568,
@@ -8925,7 +8925,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27567,
@@ -8933,7 +8933,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24925,
@@ -8941,7 +8941,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 2428,
@@ -8949,7 +8949,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 77946,
@@ -8957,7 +8957,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78260,
@@ -8965,7 +8965,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78047,
@@ -8973,7 +8973,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 26414,
@@ -8981,7 +8981,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 26422,
@@ -8989,7 +8989,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 26811,
@@ -8997,7 +8997,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 1659,
@@ -9005,7 +9005,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78045,
@@ -9013,7 +9013,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22321,
@@ -9021,7 +9021,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24929,
@@ -9029,7 +9029,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 25545,
@@ -9037,7 +9037,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 10810,
@@ -9045,7 +9045,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27569,
@@ -9053,7 +9053,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27570,
@@ -9061,7 +9061,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78044,
@@ -9069,7 +9069,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24881,
@@ -9077,7 +9077,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 76503,
@@ -9085,7 +9085,7 @@
         "rotacion": "B",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 16811,
@@ -9093,7 +9093,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 13504,
@@ -9101,7 +9101,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 12154,
@@ -9109,7 +9109,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30789,
@@ -9117,7 +9117,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30977,
@@ -9125,7 +9125,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31073,
@@ -9133,7 +9133,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 19336,
@@ -9141,7 +9141,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 24967,
@@ -9149,7 +9149,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31365,
@@ -9157,7 +9157,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29743,
@@ -9165,7 +9165,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22319,
@@ -9173,7 +9173,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 27486,
@@ -9181,7 +9181,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22440,
@@ -9189,7 +9189,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30409,
@@ -9197,7 +9197,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31600,
@@ -9205,7 +9205,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29397,
@@ -9213,7 +9213,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31601,
@@ -9221,7 +9221,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30894,
@@ -9229,7 +9229,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31357,
@@ -9237,7 +9237,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31557,
@@ -9245,7 +9245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 12723,
@@ -9253,7 +9253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31602,
@@ -9261,7 +9261,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 352,
@@ -9269,7 +9269,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76398,
@@ -9277,7 +9277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28574,
@@ -9285,7 +9285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30870,
@@ -9293,7 +9293,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31441,
@@ -9301,7 +9301,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22478,
@@ -9309,7 +9309,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7115,
@@ -9317,7 +9317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26412,
@@ -9325,7 +9325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31665,
@@ -9333,7 +9333,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24071,
@@ -9341,7 +9341,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20991,
@@ -9349,7 +9349,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 26413,
@@ -9357,7 +9357,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78220,
@@ -9365,7 +9365,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24966,
@@ -9373,7 +9373,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22454,
@@ -9381,7 +9381,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78252,
@@ -9389,7 +9389,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31664,
@@ -9397,7 +9397,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31663,
@@ -9405,7 +9405,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22328,
@@ -9413,7 +9413,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29725,
@@ -9421,7 +9421,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29164,
@@ -9429,7 +9429,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30646,
@@ -9437,7 +9437,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31666,
@@ -9445,7 +9445,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 12161,
@@ -9453,7 +9453,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29253,
@@ -9461,7 +9461,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77928,
@@ -9469,7 +9469,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77865,
@@ -9477,7 +9477,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25035,
@@ -9485,7 +9485,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28594,
@@ -9493,7 +9493,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22947,
@@ -9501,7 +9501,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19545,
@@ -9509,7 +9509,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19539,
@@ -9517,7 +9517,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30323,
@@ -9525,7 +9525,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25772,
@@ -9533,7 +9533,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77696,
@@ -9541,7 +9541,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30411,
@@ -9549,7 +9549,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25641,
@@ -9557,7 +9557,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22461,
@@ -9565,7 +9565,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25770,
@@ -9573,7 +9573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77951,
@@ -9581,7 +9581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22460,
@@ -9589,7 +9589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25060,
@@ -9597,7 +9597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25639,
@@ -9605,7 +9605,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31039,
@@ -9613,7 +9613,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28636,
@@ -9621,7 +9621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28637,
@@ -9629,7 +9629,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 5742,
@@ -9637,7 +9637,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29927,
@@ -9645,7 +9645,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30355,
@@ -9653,7 +9653,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29930,
@@ -9661,7 +9661,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29922,
@@ -9669,7 +9669,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29926,
@@ -9677,7 +9677,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30589,
@@ -9685,7 +9685,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28634,
@@ -9693,7 +9693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31416,
@@ -9701,7 +9701,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31415,
@@ -9709,7 +9709,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76363,
@@ -9717,7 +9717,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31406,
@@ -9725,7 +9725,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 7038,
@@ -9733,7 +9733,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30795,
@@ -9741,7 +9741,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30642,
@@ -9749,7 +9749,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 20433,
@@ -9757,7 +9757,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7634,
@@ -9765,7 +9765,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 19019,
@@ -9773,7 +9773,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 19341,
@@ -9781,7 +9781,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30645,
@@ -9789,7 +9789,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 2218,
@@ -9797,7 +9797,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 7026,
@@ -9805,7 +9805,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24880,
@@ -9813,7 +9813,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30648,
@@ -9821,7 +9821,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1416,
@@ -9829,7 +9829,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30663,
@@ -9837,7 +9837,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30790,
@@ -9845,7 +9845,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 31204,
@@ -9853,7 +9853,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18746,
@@ -9861,7 +9861,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30791,
@@ -9869,7 +9869,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30644,
@@ -9877,7 +9877,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 1418,
@@ -9885,7 +9885,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 15163,
@@ -9893,7 +9893,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24118,
@@ -9901,7 +9901,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25979,
@@ -9909,7 +9909,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 28691,
@@ -9917,7 +9917,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29917,
@@ -9925,7 +9925,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 899,
@@ -9933,7 +9933,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 20412,
@@ -9941,7 +9941,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24962,
@@ -9949,7 +9949,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24968,
@@ -9957,7 +9957,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16667,
@@ -9965,7 +9965,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 16371,
@@ -9973,7 +9973,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 11522,
@@ -9981,7 +9981,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 691,
@@ -9989,7 +9989,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31205,
@@ -9997,7 +9997,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30972,
@@ -10005,7 +10005,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29740,
@@ -10013,7 +10013,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 19253,
@@ -10021,7 +10021,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30481,
@@ -10029,7 +10029,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30647,
@@ -10037,7 +10037,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14933,
@@ -10045,7 +10045,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25981,
@@ -10053,7 +10053,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 8126,
@@ -10061,7 +10061,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30974,
@@ -10069,7 +10069,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 30606,
@@ -10077,7 +10077,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25980,
@@ -10085,7 +10085,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 25352,
@@ -10093,7 +10093,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22329,
@@ -10101,7 +10101,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 17932,
@@ -10109,7 +10109,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 21014,
@@ -10117,7 +10117,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14625,
@@ -10125,7 +10125,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 18743,
@@ -10133,7 +10133,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 19254,
@@ -10141,7 +10141,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14624,
@@ -10149,7 +10149,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 21862,
@@ -10157,7 +10157,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 29649,
@@ -10165,7 +10165,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 6582,
@@ -10173,7 +10173,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14934,
@@ -10181,7 +10181,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 28846,
@@ -10189,7 +10189,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 25645,
@@ -10197,7 +10197,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 24879,
@@ -10205,7 +10205,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31215,
@@ -10213,7 +10213,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 25194,
@@ -10221,7 +10221,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 14622,
@@ -10229,7 +10229,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30650,
@@ -10237,7 +10237,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 31242,
@@ -10245,7 +10245,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 7478,
@@ -10253,7 +10253,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 25978,
@@ -10261,7 +10261,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 26997,
@@ -10269,7 +10269,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22185,
@@ -10277,7 +10277,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27484,
@@ -10285,7 +10285,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 29591,
@@ -10293,7 +10293,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 29814,
@@ -10301,7 +10301,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27565,
@@ -10309,7 +10309,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 1427,
@@ -10317,7 +10317,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22278,
@@ -10325,7 +10325,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22618,
@@ -10333,7 +10333,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30478,
@@ -10341,7 +10341,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78014,
@@ -10349,7 +10349,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28315,
@@ -10357,7 +10357,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 17933,
@@ -10365,7 +10365,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27485,
@@ -10373,7 +10373,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 76476,
@@ -10381,7 +10381,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 15621,
@@ -10389,7 +10389,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27081,
@@ -10397,7 +10397,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30843,
@@ -10405,7 +10405,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22277,
@@ -10413,7 +10413,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 27566,
@@ -10421,7 +10421,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22318,
@@ -10429,7 +10429,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 17358,
@@ -10437,7 +10437,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 16225,
@@ -10445,7 +10445,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 28263,
@@ -10453,7 +10453,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 591,
@@ -10461,7 +10461,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 353,
@@ -10469,7 +10469,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28392,
@@ -10477,7 +10477,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 78012,
@@ -10485,7 +10485,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31382,
@@ -10493,7 +10493,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28698,
@@ -10501,7 +10501,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22320,
@@ -10509,7 +10509,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25637,
@@ -10517,7 +10517,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22619,
@@ -10525,7 +10525,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22256,
@@ -10533,7 +10533,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 76386,
@@ -10541,7 +10541,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 29564,
@@ -10549,7 +10549,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 19193,
@@ -10557,7 +10557,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77979,
@@ -10565,7 +10565,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30410,
@@ -10573,7 +10573,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76477,
@@ -10581,7 +10581,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29563,
@@ -10589,7 +10589,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 8125,
@@ -10597,7 +10597,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 1495,
@@ -10605,7 +10605,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22459,
@@ -10613,7 +10613,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78142,
@@ -10621,7 +10621,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 21856,
@@ -10629,7 +10629,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30914,
@@ -10637,7 +10637,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 2555,
@@ -10645,7 +10645,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 31119,
@@ -10653,7 +10653,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 22438,
@@ -10661,7 +10661,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77771,
@@ -10669,7 +10669,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29023,
@@ -10677,7 +10677,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20358,
@@ -10685,7 +10685,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77929,
@@ -10693,7 +10693,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78215,
@@ -10701,7 +10701,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78048,
@@ -10709,7 +10709,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76397,
@@ -10717,7 +10717,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76520,
@@ -10725,7 +10725,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76387,
@@ -10733,7 +10733,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22458,
@@ -10741,7 +10741,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77831,
@@ -10749,7 +10749,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22442,
@@ -10757,7 +10757,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77832,
@@ -10765,7 +10765,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78222,
@@ -10773,7 +10773,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25640,
@@ -10781,7 +10781,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30324,
@@ -10789,7 +10789,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78216,
@@ -10797,7 +10797,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77980,
@@ -10805,7 +10805,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28982,
@@ -10813,7 +10813,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 870,
@@ -10821,7 +10821,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78086,
@@ -10829,7 +10829,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78145,
@@ -10837,7 +10837,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29640,
@@ -10845,7 +10845,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77843,
@@ -10853,7 +10853,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29022,
@@ -10861,7 +10861,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30325,
@@ -10869,7 +10869,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77846,
@@ -10877,7 +10877,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77917,
@@ -10885,7 +10885,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24965,
@@ -10893,7 +10893,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24964,
@@ -10901,7 +10901,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29127,
@@ -10909,7 +10909,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22456,
@@ -10917,7 +10917,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78038,
@@ -10925,7 +10925,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77727,
@@ -10933,7 +10933,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78279,
@@ -10941,7 +10941,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30802,
@@ -10949,7 +10949,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29021,
@@ -10957,7 +10957,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22322,
@@ -10965,7 +10965,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25032,
@@ -10973,7 +10973,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30764,
@@ -10981,7 +10981,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78219,
@@ -10989,7 +10989,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25775,
@@ -10997,7 +10997,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29562,
@@ -11005,7 +11005,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77726,
@@ -11013,7 +11013,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77833,
@@ -11021,7 +11021,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77934,
@@ -11029,7 +11029,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77811,
@@ -11037,7 +11037,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78221,
@@ -11045,7 +11045,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25029,
@@ -11053,7 +11053,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30989,
@@ -11061,7 +11061,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN ÚNICO ALÉRGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77706,
@@ -11069,7 +11069,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78050,
@@ -11077,7 +11077,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77707,
@@ -11085,7 +11085,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77926,
@@ -11093,7 +11093,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28780,
@@ -11101,7 +11101,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78280,
@@ -11109,7 +11109,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25776,
@@ -11117,7 +11117,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29736,
@@ -11125,7 +11125,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78141,
@@ -11133,7 +11133,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "MULTIALERGENOS",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77818,
@@ -11141,7 +11141,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22474,
@@ -11149,7 +11149,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28797,
@@ -11157,7 +11157,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22463,
@@ -11165,7 +11165,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25773,
@@ -11173,7 +11173,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22455,
@@ -11181,7 +11181,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25768,
@@ -11189,7 +11189,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77837,
@@ -11197,7 +11197,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25771,
@@ -11205,7 +11205,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77770,
@@ -11213,7 +11213,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25774,
@@ -11221,7 +11221,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78046,
@@ -11229,7 +11229,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77838,
@@ -11237,7 +11237,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76481,
@@ -11245,7 +11245,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77950,
@@ -11253,7 +11253,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 25769,
@@ -11261,7 +11261,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 22330,
@@ -11269,7 +11269,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76479,
@@ -11277,7 +11277,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 29072,
@@ -11285,7 +11285,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77861,
@@ -11293,7 +11293,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 76504,
@@ -11301,7 +11301,7 @@
         "rotacion": "C",
         "alergeno": "SI",
         "tipo_alergeno": "CON UN UNICO ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30986,
@@ -11309,7 +11309,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30987,
@@ -11317,7 +11317,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30985,
@@ -11325,7 +11325,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78282,
@@ -11333,7 +11333,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 16666,
@@ -11341,7 +11341,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 30466,
@@ -11349,7 +11349,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 13224,
@@ -11357,7 +11357,7 @@
         "rotacion": "B",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "B,E"
+        "estiba": "B,E,H"
     },
     {
         "sku": 12165,
@@ -11365,7 +11365,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 20987,
@@ -11373,7 +11373,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 10970,
@@ -11381,7 +11381,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 2556,
@@ -11389,7 +11389,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 24927,
@@ -11397,7 +11397,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 28753,
@@ -11405,7 +11405,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30382,
@@ -11413,7 +11413,7 @@
         "rotacion": "A",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "C,F,G,H"
+        "estiba": "C,F,G"
     },
     {
         "sku": 29921,
@@ -11421,7 +11421,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "SIN ALERGENO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 30420,
@@ -11429,7 +11429,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77915,
@@ -11437,7 +11437,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 78261,
@@ -11445,7 +11445,7 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     },
     {
         "sku": 77853,
@@ -11453,6 +11453,6 @@
         "rotacion": "C",
         "alergeno": "NO",
         "tipo_alergeno": "NO",
-        "estiba": "A,I"
+        "estiba": "A,D,I"
     }
 ]
