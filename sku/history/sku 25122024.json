@@ -22,7 +22,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "11"
   },
   {
@@ -31,7 +31,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "90"
   },
   {
@@ -40,7 +40,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "87"
   },
   {
@@ -49,7 +49,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "3"
   },
   {
@@ -85,7 +85,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "33"
   },
   {
@@ -112,7 +112,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "1"
   },
   {
@@ -238,7 +238,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "58"
   },
   {
@@ -274,7 +274,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "79"
   },
   {
@@ -310,7 +310,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "69"
   },
   {
@@ -328,7 +328,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "4"
   },
   {
@@ -364,7 +364,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "57"
   },
   {
@@ -382,7 +382,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "91"
   },
   {
@@ -400,7 +400,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "86"
   },
   {
@@ -418,7 +418,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "51"
   },
   {
@@ -499,7 +499,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "84"
   },
   {
@@ -607,7 +607,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "75"
   },
   {
@@ -679,7 +679,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "33"
   },
   {
@@ -706,7 +706,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "36"
   },
   {
@@ -724,7 +724,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "75"
   },
   {
@@ -733,7 +733,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "12"
   },
   {
@@ -832,7 +832,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "24"
   },
   {
@@ -958,7 +958,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "86"
   },
   {
@@ -994,7 +994,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "89"
   },
   {
@@ -1039,7 +1039,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "15"
   },
   {
@@ -1111,7 +1111,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "52"
   },
   {
@@ -1174,7 +1174,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "42"
   },
   {
@@ -1444,7 +1444,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "46"
   },
   {
@@ -1651,7 +1651,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "23"
   },
   {
@@ -1822,7 +1822,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "22"
   },
   {
@@ -1966,7 +1966,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "13"
   },
   {
@@ -1975,7 +1975,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "17"
   },
   {
@@ -2056,7 +2056,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "45"
   },
   {
@@ -2074,7 +2074,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "7"
   },
   {
@@ -2092,7 +2092,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "40"
   },
   {
@@ -2326,7 +2326,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "35"
   },
   {
@@ -2353,7 +2353,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "35"
   },
   {
@@ -2398,7 +2398,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "0"
   },
   {
@@ -2497,7 +2497,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "33"
   },
   {
@@ -2569,7 +2569,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "6"
   },
   {
@@ -2605,7 +2605,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "41"
   },
   {
@@ -2848,7 +2848,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "43"
   },
   {
@@ -2866,7 +2866,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "20"
   },
   {
@@ -3001,7 +3001,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "66"
   },
   {
@@ -3019,7 +3019,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "45"
   },
   {
@@ -3460,7 +3460,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "45"
   },
   {
@@ -3514,7 +3514,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "79"
   },
   {
@@ -3586,7 +3586,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "8"
   },
   {
@@ -3694,7 +3694,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "85"
   },
   {
@@ -3703,7 +3703,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "84"
   },
   {
@@ -3847,7 +3847,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "18"
   },
   {
@@ -3874,7 +3874,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "19"
   },
   {
@@ -3892,7 +3892,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "62"
   },
   {
@@ -3919,7 +3919,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "79"
   },
   {
@@ -3964,7 +3964,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "61"
   },
   {
@@ -4081,7 +4081,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "14"
   },
   {
@@ -4198,7 +4198,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "76"
   },
   {
@@ -4306,7 +4306,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "11"
   },
   {
@@ -4342,7 +4342,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "8"
   },
   {
@@ -4360,7 +4360,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "39"
   },
   {
@@ -4369,7 +4369,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "37"
   },
   {
@@ -4378,7 +4378,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "23"
   },
   {
@@ -4423,7 +4423,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "73"
   },
   {
@@ -4441,7 +4441,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "85"
   },
   {
@@ -4468,7 +4468,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "27"
   },
   {
@@ -4495,7 +4495,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "50"
   },
   {
@@ -4522,7 +4522,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "52"
   },
   {
@@ -4531,7 +4531,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "13"
   },
   {
@@ -4585,7 +4585,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "47"
   },
   {
@@ -4648,7 +4648,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "12"
   },
   {
@@ -4657,7 +4657,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "90"
   },
   {
@@ -4684,7 +4684,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "8"
   },
   {
@@ -4882,7 +4882,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "75"
   },
   {
@@ -4891,7 +4891,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "33"
   },
   {
@@ -4945,7 +4945,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "88"
   },
   {
@@ -5161,7 +5161,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "23"
   },
   {
@@ -5278,7 +5278,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "94"
   },
   {
@@ -5323,7 +5323,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "14"
   },
   {
@@ -5674,7 +5674,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "74"
   },
   {
@@ -5800,7 +5800,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "82"
   },
   {
@@ -6034,7 +6034,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "39"
   },
   {
@@ -6214,7 +6214,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "25"
   },
   {
@@ -6898,7 +6898,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "49"
   },
   {
@@ -7006,7 +7006,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "SIN ALERGENO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "95"
   },
   {
@@ -7015,7 +7015,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "SIN ALERGENO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "86"
   },
   {
@@ -7024,7 +7024,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "SIN ALERGENO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "92"
   },
   {
@@ -7123,7 +7123,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "94"
   },
   {
@@ -7132,7 +7132,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "89"
   },
   {
@@ -7141,7 +7141,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "56"
   },
   {
@@ -7177,7 +7177,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "57"
   },
   {
@@ -7231,7 +7231,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "35"
   },
   {
@@ -7249,7 +7249,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "95"
   },
   {
@@ -7258,7 +7258,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "72"
   },
   {
@@ -7276,7 +7276,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "73"
   },
   {
@@ -7339,7 +7339,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "28"
   },
   {
@@ -7591,7 +7591,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "73"
   },
   {
@@ -7609,7 +7609,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "15"
   },
   {
@@ -7636,7 +7636,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "91"
   },
   {
@@ -7645,7 +7645,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "53"
   },
   {
@@ -7663,7 +7663,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "82"
   },
   {
@@ -7699,7 +7699,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "64"
   },
   {
@@ -7726,7 +7726,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "85"
   },
   {
@@ -7789,7 +7789,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "76"
   },
   {
@@ -7807,7 +7807,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "21"
   },
   {
@@ -7825,7 +7825,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "88"
   },
   {
@@ -7843,7 +7843,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "37"
   },
   {
@@ -7870,7 +7870,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "85"
   },
   {
@@ -7888,7 +7888,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "30"
   },
   {
@@ -8266,7 +8266,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "59"
   },
   {
@@ -8284,7 +8284,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "20"
   },
   {
@@ -8302,7 +8302,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "1"
   },
   {
@@ -8329,7 +8329,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "39"
   },
   {
@@ -8356,7 +8356,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "63"
   },
   {
@@ -8563,7 +8563,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "13"
   },
   {
@@ -8572,7 +8572,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "68"
   },
   {
@@ -8644,7 +8644,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "19"
   },
   {
@@ -8662,7 +8662,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "50"
   },
   {
@@ -8689,7 +8689,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "81"
   },
   {
@@ -8824,7 +8824,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "68"
   },
   {
@@ -8833,7 +8833,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "22"
   },
   {
@@ -8851,7 +8851,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "83"
   },
   {
@@ -8860,7 +8860,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "25"
   },
   {
@@ -8878,7 +8878,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "74"
   },
   {
@@ -8887,7 +8887,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "19"
   },
   {
@@ -9193,7 +9193,7 @@
    "rotacion": "B",
    "alergeno": "SI",
    "tipo_alergeno": "CON UN UNICO ALERGENO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "54"
   },
   {
@@ -9472,7 +9472,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "71"
   },
   {
@@ -9490,7 +9490,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "36"
   },
   {
@@ -9508,7 +9508,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "29"
   },
   {
@@ -9517,7 +9517,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "36"
   },
   {
@@ -9562,7 +9562,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "17"
   },
   {
@@ -9598,7 +9598,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "60"
   },
   {
@@ -9652,7 +9652,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "35"
   },
   {
@@ -9688,7 +9688,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "8"
   },
   {
@@ -9715,7 +9715,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "25"
   },
   {
@@ -9760,7 +9760,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "71"
   },
   {
@@ -9787,7 +9787,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "46"
   },
   {
@@ -9886,7 +9886,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "64"
   },
   {
@@ -9922,7 +9922,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "83"
   },
   {
@@ -9931,7 +9931,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "61"
   },
   {
@@ -9949,7 +9949,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "22"
   },
   {
@@ -9976,7 +9976,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "67"
   },
   {
@@ -9994,7 +9994,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "59"
   },
   {
@@ -10048,7 +10048,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "22"
   },
   {
@@ -10318,7 +10318,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "93"
   },
   {
@@ -10345,7 +10345,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "96"
   },
   {
@@ -10390,7 +10390,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "90"
   },
   {
@@ -10480,7 +10480,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "48"
   },
   {
@@ -10489,7 +10489,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "87"
   },
   {
@@ -10507,7 +10507,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "33"
   },
   {
@@ -10525,7 +10525,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "80"
   },
   {
@@ -10534,7 +10534,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "44"
   },
   {
@@ -10579,7 +10579,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "53"
   },
   {
@@ -10588,7 +10588,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "14"
   },
   {
@@ -10714,7 +10714,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "76"
   },
   {
@@ -10732,7 +10732,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "42"
   },
   {
@@ -10750,7 +10750,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "77"
   },
   {
@@ -10777,7 +10777,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "30"
   },
   {
@@ -10849,7 +10849,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "1"
   },
   {
@@ -10858,7 +10858,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "32"
   },
   {
@@ -10876,7 +10876,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "72"
   },
   {
@@ -10948,7 +10948,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "29"
   },
   {
@@ -10957,7 +10957,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "35"
   },
   {
@@ -11092,7 +11092,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "44"
   },
   {
@@ -11146,7 +11146,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "53"
   },
   {
@@ -11173,7 +11173,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "47"
   },
   {
@@ -11200,7 +11200,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "42"
   },
   {
@@ -11227,7 +11227,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "83"
   },
   {
@@ -11281,7 +11281,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "7"
   },
   {
@@ -11290,7 +11290,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "86"
   },
   {
@@ -11299,7 +11299,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "91"
   },
   {
@@ -11326,7 +11326,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "80"
   },
   {
@@ -11335,7 +11335,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "17"
   },
   {
@@ -11362,7 +11362,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "96"
   },
   {
@@ -11497,7 +11497,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "75"
   },
   {
@@ -11524,7 +11524,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "38"
   },
   {
@@ -11596,7 +11596,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "92"
   },
   {
@@ -11695,7 +11695,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "74"
   },
   {
@@ -11785,7 +11785,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "18"
   },
   {
@@ -11794,7 +11794,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "85"
   },
   {
@@ -11812,7 +11812,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "93"
   },
   {
@@ -11821,7 +11821,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "59"
   },
   {
@@ -12235,7 +12235,7 @@
    "rotacion": "A",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "C,F,G,H",
+   "estiba": "C,E,F,G",
    "dv": "89"
   },
   {
@@ -12667,7 +12667,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "70"
   },
   {
@@ -13018,7 +13018,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "19"
   },
   {
@@ -13162,7 +13162,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "8"
   },
   {
@@ -13288,7 +13288,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "16"
   },
   {
@@ -13576,7 +13576,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "68"
   },
   {
@@ -13585,7 +13585,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "38"
   },
   {
@@ -13666,7 +13666,7 @@
    "rotacion": "B",
    "alergeno": "NO",
    "tipo_alergeno": "NO",
-   "estiba": "B,E,D",
+   "estiba": "B,D,H",
    "dv": "18"
   }
    ]
