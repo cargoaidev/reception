@@ -1,6 +1,5 @@
 [
  {
-<<<<<<< HEAD
   "sku": 318,
   "nombre": "BOX PROD DERRAME",
   "rotacion": "SIN",
@@ -14631,15 +14630,6 @@
   "tipo_alergeno": "NO",
   "estiba": "",
   "dv": "SIN"
-=======
-  "sku": 13,
-  "nombre": "7UP 2000cc x8",
-  "dv": "SIN",
-  "rotacion": "C",
-  "alergeno": "NO",
-  "tipo_alergeno": "NO",
-  "estiba": "A,I"
->>>>>>> 4811f0c6471ab1ea7114a978a3efd6e2f6ba1129
  },
  {
   "sku": 19,
