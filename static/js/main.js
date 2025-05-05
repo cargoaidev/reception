@@ -44,7 +44,7 @@ excel_file.addEventListener('change', (event) => {
          hora.innerHTML = "FECHA:  " + hora_actual.getDate() + "/" + (hora_actual.getMonth() + 1) + "/" + hora_actual.getFullYear() + " ,       HORA: " + String(hora_actual.getHours()).padStart(2, '0') + ":" + String(hora_actual.getMinutes()).padStart(2, '0') + ":" + String(hora_actual.getSeconds()).padStart(2, '0');
 
          var table_output = '<table class="section-table">';
-         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>FECHA DE VENC.</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>ESTIBA SUGERIDA</th><th>UBIC. ACTUAL</th></thead>';
+         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>FECHA DE VENC.</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>ESTIBA SUGERIDA</th><th>FECHA ESTIBA</th><th>UBIC. ACTUAL</th></thead>';
          table_output += '<tbody>';
 
          var item = "";
@@ -93,12 +93,13 @@ excel_file.addEventListener('change', (event) => {
             }
 
             table_output += '<td>' + "  " + '</td>';
+            table_output += '<td>' + "  " + '</td>';
             table_output += '</tr>';
             table_output += '</tbody>';
          }
 
          
-         table_output += '<tfoot class="table-foot"><tr><td colspan="8">Operario (Apellido y Firma): ______________________________________________</td></tr><tr><td colspan="8">Coordinador (Apellido y Firma):  ______________________________________________</td></tr></tfoot>';
+         table_output += '<tfoot class="table-foot"><tr><td colspan="10">Operario (Apellido y Firma): ______________________________________________</td></tr><tr><td colspan="10">Coordinador (Apellido y Firma):  ______________________________________________</td></tr></tfoot>';
          table_output += '</table>';
 
          document.getElementById('excel_data').innerHTML = table_output;
