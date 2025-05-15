@@ -44,7 +44,7 @@ excel_file.addEventListener('change', (event) => {
          hora.innerHTML = "FECHA:  " + hora_actual.getDate() + "/" + (hora_actual.getMonth() + 1) + "/" + hora_actual.getFullYear() + " ,       HORA: " + String(hora_actual.getHours()).padStart(2, '0') + ":" + String(hora_actual.getMinutes()).padStart(2, '0') + ":" + String(hora_actual.getSeconds()).padStart(2, '0');
 
          var table_output = '<table class="section-table">';
-         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>FECHA DE VENC.</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>ESTIBA SUGERIDA</th><th>FECHA ESTIBA</th><th>UBIC. ACTUAL</th></thead>';
+         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>FECHA DE VENC.</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>APILABILIDAD</th><th>ESTIBA SUGERIDA</th><th>FECHA ESTIBA</th><th>UBIC. ACTUAL</th></thead>';
          table_output += '<tbody>';
 
          var item = "";
@@ -81,13 +81,16 @@ excel_file.addEventListener('change', (event) => {
                console.log(sku);
                //console.log(item);
                var esAlergeno = sku.alergeno || "No especificado";  
-               var skuRot = sku.rotacion || "No especificado"; 
+               var skuRot = sku.rotacion || "No especificado";
+               var skuApil = sku.apilabilidad || "No especificado"; 
                var posicion = sku.estiba || "No especificada";  
                table_output += '<td>' + esAlergeno + '</td>';
                table_output += '<td>' + skuRot + '</td>';
+               table_output += '<td>' + skuApil + '</td>';
                table_output += '<td>' + posicion + '</td>';
             } else {
                table_output += '<td>Sin datos</td>';  
+               table_output += '<td>Sin datos</td>';
                table_output += '<td>Sin datos</td>';
                table_output += '<td>Sin datos</td>';
             }
