@@ -1,127 +1,407 @@
-
-/* Developer: Nelson Siu nsiu@grupocargo.com */
-
-* { padding: 0;
-  margin: 0;
+* { 
+    padding: 0;
+    margin: 0;
 }
 
 .top-nav {
-margin: 2;
-padding: 2;
-
-
+    margin: 2px;
+    padding: 2px;
 }
 
 .title { 
-  border-radius: 0% 0% 0% 0%;
-  border-color: rgb(213, 193, 193);
-  
-  color: rgb(255, 255, 255);
-  background-color: dimgray;
-
+    border-radius: 0% 0% 0% 0%;
+    border-color: rgb(213, 193, 193);
+    color: rgb(255, 255, 255);
+    background-color: dimgray;
 }
 
-h4 { text-align: center;
+h4 { 
+    text-align: center;
 }
 
-
-ul { display: flex;
-  justify-content: center;
-  justify-content: space-between;
-  align-items: center;
-  list-style-type: none;
-  margin: 1px;
-  padding: 1px;
-  overflow: hidden;
-
+ul { 
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+    overflow: hidden;
 }
 
 .nav {
-  border-radius: 0% 0% 30% 30%;
-  border-color: black;  
-  background-color: rgb(237, 233, 221);
-  padding:0vmax;
-  width:max-content;
-  margin:auto; 
-
+    border-radius: 0% 0% 30% 30%;
+    border-color: black;  
+    background-color: rgb(237, 233, 221);
+    padding: 0vmax;
+    width: max-content;
+    margin: auto; 
 }
 
-
 li {
-  float:left;
-  text-align: center;
-  text-decoration:wavy;
-  padding: 1em;
-  margin: inline 1em;
-  vertical-align: middle;
-  
+    float: left;
+    text-align: center;
+    text-decoration: wavy;
+    padding: 1em;
+    margin: inline 1em;
+    vertical-align: middle;
 }
 
 #ul-content li:hover {
-  background-color: #0cde75;
-  border-radius: 25%;
+    background-color: #0cde75;
+    border-radius: 25%;
 }
 
 legend, fieldset {
-  font-weight: bold;
-  color: midnightblue;
-  border-radius: 5%;
-  padding: 1em;
+    font-weight: bold;
+    color: midnightblue;
+    border-radius: 5%;
+    padding: 1em;
 }
 
 button {
-  margin-left: -20px;
+    margin-left: -20px;
 }
 
-tbody:nth-child(even) {
-  background-color: #c9c9bf;
+/* Filas impares blanco, pares gris */
+.section-table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
 }
 
-.section-table,#imgheader,#imgfooter,#excel_data{
-  margin-left: auto;
-  margin-right: auto;
-  border-color:rgb(63, 63, 65);  
-  /* border-style: solid; */
-  width: 30cm;
-  height: auto;
-  border-collapse: collapse;
-  
+.section-table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
 }
 
+.section-table, #imgheader, #excel_data {
+    margin-left: auto;
+    margin-right: auto;
+    border-color: rgb(63, 63, 65);  
+    width: 27cm;
+    height: auto;
+    border-collapse: collapse;
+}
 
+.excel-data-container {
+    width: 100%;
+}
+
+/* BALANCE MEJORADO */
 td, th {
-  border:solid black 1px; 
-  text-align: center;
-  font-size:1em;
-  height: 2em;
+    border: solid black 1px; 
+    text-align: center;
+    font-size: 0.75em;
+    height: 1.2em; /* Aumentado para más espacio */
+    padding: 7px 4px !important; /* Más padding para mejor espaciado */
+    line-height: 1; /* Más separación entre líneas */
 }
 
 thead {
-  background-color: rgb(142, 169, 207);
-  border-top: none;
-  align-items: center;
-  align-content: center;
-  text-align: center;
-  font-size:0.7em;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(142, 169, 207);
+    border-top: none;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 0.75em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 9px 5px !important; 
+    font-weight: bold;
 }
 
-
-tfoot tr td{ 
-  border:solid black 1px; 
-  text-align: left;
-  font-size:1.2em;
-  height: 2em;
-  font-weight: bold;
-  padding: 2px;
-  vertical-align: bottom;
+.remito, .hora {
+    font-weight: bold;
+    font-size: 0.95em;
 }
 
-/* img#image-logo {
- border-radius: 10% 50% 10% 50%;
-} */
-
-.remito,.hora{
-  font-weight: bold;
+.table-header-data ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 5px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    margin: 5px 0;
 }
 
+/* TABLA ANEXA CON MÁS ESPACIO Y FILAS MÁS ALTAS */
+.footer-table-container {
+    margin: 5px 0; /* Más margen */
+}
+
+.footer-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85em;
+    border: 1px solid black;
+}
+
+.footer-table thead {
+    background-color: #8ea9cf;
+    padding: 9px 5px !important; /* Más padding */
+}
+
+.footer-table th {
+    padding: 9px 5px !important; /* Más padding */
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+    height: 2.8em; /* Más altura */
+    font-size: 0.75em;
+}
+
+.footer-table td {
+    padding: 10px 4px !important; /* Más padding para más altura */
+    text-align: center;
+    border: 1px solid black;
+    height: 2.6em; /* Más altura para filas más separadas */
+    font-size: 0.8em;
+    line-height: 1.5; /* Más separación entre líneas */
+}
+
+/* Filas impares blanco, pares gris en tabla anexa */
+.footer-table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.footer-table tbody tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+.signatures {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px; /* Más espacio entre firmas */
+    margin-top: 30px; /* Más margen superior */
+    padding-top: 25px; /* Más padding */
+    border-top: 2px solid #ccc;
+}
+
+.signature-line {
+    font-weight: bold;
+    padding: 10px 0; /* Más padding */
+    font-size: 0.95em;
+}
+
+/* ESTILOS PARA BOTONES DE ETIQUETAS */
+.btn-label {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8em;
+    margin: 2px;
+}
+
+.btn-label:hover {
+    background-color: #45a049;
+}
+
+/* Estilo para la columna de botones de etiqueta */
+.section-table td:last-child {
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Ajustar tabla principal para nueva columna - COLOR NORMAL COMO LAS DEMÁS */
+.section-table th:last-child {
+    background-color: #8ea9cf; /* Mismo color que las demás columnas */
+    color: black; /* Texto negro para mejor contraste */
+}
+
+/* ESTILOS PARA IMPRESIÓN CORREGIDOS */
+@media print {
+    @page {
+        margin: 0.7cm; /* Márgenes suficientes */
+        size: portrait;
+    }
+    
+    .top-nav {
+        display: none !important;
+    }
+    
+    /* OCULTAR PASO 3 DE IMPRESIÓN DE ETIQUETAS */
+    .print-label-step {
+        display: none !important;
+    }
+    
+    body {
+        background: white !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: 10pt !important;
+        width: 100% !important;
+        height: 100% !important;
+    }
+    
+    /* CONTENEDOR PRINCIPAL - EVITAR SALTO DE PÁGINA */
+    .section-table {
+        width: 100% !important;
+        margin: 0 auto !important;
+        max-width: 24.5cm !important;
+        box-shadow: none !important;
+        page-break-inside: avoid !important; /* Evitar que se divida */
+    }
+    
+    /* ENCABEZADO Y TABLA PRINCIPAL JUNTOS */
+    #imgheader {
+        width: 100% !important;
+        max-width: 24.5cm !important;
+        height: auto !important;
+        margin: 0 auto 8px auto !important;
+        display: block !important;
+        page-break-after: avoid !important;
+    }
+    
+    .table-header-data {
+        margin: 8px 0 !important;
+        page-break-after: avoid !important;
+    }
+    
+    .table-header-data ul {
+        background: none !important;
+        padding: 6px 12px !important;
+        page-break-after: avoid !important;
+    }
+    
+    /* TABLA PRINCIPAL - EVITAR DIVISIÓN */
+    .excel-data-container {
+        page-break-inside: avoid !important;
+        page-break-after: avoid !important;
+    }
+    
+    /* FUENTES LEGIBLES CON MÁS ESPACIO */
+    td, th {
+        padding: 6px 3px !important; /* Buen balance */
+        font-size: 8.5pt !important; /* Legible */
+        height: auto !important;
+        line-height: 1.3 !important; /* Espaciado mejorado */
+    }
+    
+    thead {
+        font-size: 8pt !important;
+        background: #f1f5f9 !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        page-break-after: avoid !important;
+    }
+    
+    /* TABLA ANEXA CON MÁS ESPACIO EN IMPRESIÓN */
+    .footer-table th,
+    .footer-table td {
+        padding: 6px 3px !important;
+        font-size: 8pt !important;
+        line-height: 1.3 !important; /* Espaciado entre líneas */
+        height: auto !important;
+    }
+    
+    .remito, .hora {
+        font-size: 9.5pt !important;
+    }
+    
+    .signature-line {
+        font-size: 9.5pt !important;
+        padding: 8px 0 !important;
+    }
+    
+    /* FOOTER SOLO AL FINAL - PERO EN LA MISMA SECCIÓN */
+    .section-table-header-footer {
+        page-break-before: avoid !important;
+        margin-top: 15px !important;
+    }
+    
+    /* EVITAR QUE LAS TABLAS SE DIVIDAN ENTRE PÁGINAS */
+    table {
+        page-break-inside: auto !important;
+        width: 100% !important;
+    }
+    
+    tr {
+        page-break-inside: avoid !important;
+        page-break-after: auto !important;
+    }
+    
+    td {
+        page-break-inside: avoid !important;
+        page-break-after: auto !important;
+    }
+    
+    /* OCULTAR COLUMNA DE ETIQUETAS EN IMPRESIÓN */
+    .section-table th:last-child,
+    .section-table td:last-child {
+        display: none !important;
+    }
+    
+    /* MANTENER COLORES DE FONDO - FILAS PARES GRISES EN IMPRESIÓN */
+    .section-table tbody tr:nth-child(even),
+    .footer-table tbody tr:nth-child(even) {
+        background-color: #f8f9fa !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    .section-table tbody tr:nth-child(odd),
+    .footer-table tbody tr:nth-child(odd) {
+        background-color: #ffffff !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    /* FORZAR QUE TODO EL CONTENEDOR SE MANTENGA JUNTO */
+    .main-content-container {
+        page-break-inside: avoid !important;
+    }
+    
+    /* ESPECÍFICO PARA EVITAR SEPARACIÓN ENTRE HEADER Y TABLA */
+    .document-section {
+        page-break-inside: avoid !important;
+    }
+
+    /* OCULTAR BOTONES DE ETIQUETAS EN IMPRESIÓN */
+    .btn-label {
+        display: none !important;
+    }
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+    .section-table, #imgheader, #excel_data {
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    td, th {
+        padding: 5px 3px !important;
+        font-size: 0.82em !important;
+    }
+    
+    .footer-table th,
+    .footer-table td {
+        padding: 6px 3px !important;
+    }
+}
+
+/* Mejorar visualización en pantalla */
+@media screen {
+    .section-table {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        margin: 20px auto;
+        padding: 15px;
+        background: white;
+    }
+    
+    #imgheader {
+        box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+        border-radius: 4px;
+    }
+}
+
+/* NUEVO BOTÓN EN EL NAV */
+.printer img {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.printer img:hover {
+    transform: scale(1.1);
+}

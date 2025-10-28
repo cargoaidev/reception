@@ -553,13 +553,13 @@ excel_file.addEventListener('change', (event) => {
          hora.innerHTML = "FECHA:  " + hora_actual.getDate() + "/" + (hora_actual.getMonth() + 1) + "/" + hora_actual.getFullYear() + " ,       HORA: " + String(hora_actual.getHours()).padStart(2, '0') + ":" + String(hora_actual.getMinutes()).padStart(2, '0') + ":" + String(hora_actual.getSeconds()).padStart(2, '0');
 
          var table_output = '<table class="section-table">';
-         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>LPN</th><th>FECHA DE VENC.</th><th>LOTE</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>APILABILIDAD</th><th>ESTIBA SUGERIDA</th><th>FECHA ESTIBA</th><th>UBIC. ACTUAL</th></tr></thead>'; //<th>ETIQUETA</th>
+         table_output += '<thead class="table-head"><tr id="table-head"><th>CODIGO</th><th>DESCRIPCION</th><th>LPN</th><th>FECHA DE VENC.</th><th>LOTE</th><th>ITEM</th><th>ALERGENO</th><th>ROTACION</th><th>APILABILIDAD</th><th>ESTIBA SUGERIDA</th><th>FECHA ESTIBA</th><th>UBIC. ACTUAL</th><th>ETIQUETA</th></tr></thead>';
          table_output += '<tbody>';
 
          var item = "";
          var intemNum = 1;
 
-         currentTableData = []; // Reinicia los datos para etiquetas
+         currentTableData = []; // Reiniciamos los datos para etiquetas
 
          for (var row = 2; row < sheet_data.length; row++) {
             table_output += '<tr>';
@@ -608,7 +608,7 @@ excel_file.addEventListener('change', (event) => {
             table_output += '<td>' + "  " + '</td>';
 
             // AGREGAR BOTÓN PARA IMPRIMIR ETIQUETA INDIVIDUAL
-          //  table_output += `<td><button onclick="printLabel(${currentTableData.length})" class="btn-label">🏷️ Imprimir</button></td>`;
+            table_output += `<td><button onclick="printLabel(${currentTableData.length})" class="btn-label">🏷️ Imprimir</button></td>`;
 
             table_output += '</tr>';
 
@@ -630,6 +630,7 @@ excel_file.addEventListener('change', (event) => {
          }
 
          table_output += '</tbody>';
+         table_output += '<tfoot class="table-foot"><tr><td colspan="13">Operario (Apellido y Firma): ______________________________________________</td></tr><tr><td colspan="13">Coordinador (Apellido y Firma):  ______________________________________________</td></tr></tfoot>';
          table_output += '</table>';
 
          document.getElementById('excel_data').innerHTML = table_output;

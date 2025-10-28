@@ -6,24 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IMPORTADOR</title>
     <link rel="stylesheet" href="./static/css/mystyle.css" />
-
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
-
     <script type="text/javascript" src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
-    
-
 </head>
 
 <body>
     <div class="top-nav">
-
-
         <div class="nav"> 
             <div class="title">
-                <h4>
-                    IMPORTADOR
-                </h4>
-
+                <h4>IMPORTADOR</h4>
             </div>               
 
             <ul id="ul-content">
@@ -36,42 +26,81 @@
 
                 <li>
                     <div class="printer">
-                        <legend>Paso 2: Imprima</legend>
-                        <img src="./static/img/printer.png" alt="Imprimir" onClick='window.print()' height="50em">                   
-                        
+                        <legend>Paso 2: Imprima tabla</legend>
+                        <img src="./static/img/printer.png" alt="Imprimir Tabla" onClick='window.print()' height="50em">                   
                     </div>
                 </li>
-                
-            </ul>
 
+                <!-- BOTÓN PARA ETIQUETAS - OCULTO EN IMPRESIÓN -->
+                <!-- <li class="print-label-step">
+                    <div class="printer">
+                        <legend>Paso 3: Imprimir todas las etiquetas</legend>
+                        <img src="./static/img/tag_printer.PNG" alt="Imprimir Etiquetas" onClick='printAllLabels()' height="50em" style="cursor:pointer;">                   
+                    </div>
+                </li> -->
+            </ul>
         </div>
     </div>
 
-
-    <div class="section-table" id='section-table'>
-        <div class="section-table-header-footer">
-            <img id="imgheader" src="./static/img/header.jpg" alt="Encabezado" width="1200">    
-        </div> 
-        <div class="table-header-data"> 
-            <ul> 
-                <li class="remito" id="remito"> </li> 
-                <li class="hora" id="hora"> </li>
-            </ul>
-        </div>       
-        <div id="excel_data"></div>
+    <!-- CONTENEDOR UNIFICADO PARA IMPRESIÓN -->
+    <div class="section-table main-content-container" id='section-table'>
+        <div class="document-section">
+            <div class="section-table-header-footer">
+                <img id="imgheader" src="./static/img/header.jpg" alt="Encabezado" width="1200">    
+            </div> 
+            
+            <div class="table-header-data"> 
+                <ul> 
+                    <li class="remito" id="remito"></li> 
+                    <li class="hora" id="hora"></li>
+                </ul>
+            </div>       
+            
+            <div id="excel_data" class="excel-data-container"></div>
+            <!-- FIRMAS DESPUÉS DE LA TABLA ANEXA -->
+            <div class="signatures">
+                <div class="signature-line">
+                    <strong>Operario (Apellido y Firma):</strong> ________________________________
+                </div>
+                <div class="signature-line">
+                    <strong>Coordinador (Apellido y Firma):</strong> ____________________________
+                </div>
+            </div>
                 
-        <div class="section-table-header-footer">
-            <img id="imgfooter"src="./static/img/footer.jpg" alt="Footer" width="1200">    
-        </div> 
+            <!-- TABLA ANEXA Y FIRMAS - TODO EN EL MISMO CONTENEDOR -->
+            <div class="section-table-header-footer">
+                <div class="footer-table-container">
+                    <table class="footer-table">
+                        <thead>
+                            <tr>
+                                <th>CÓDIGO</th>
+                                <th>DESCRIPCIÓN</th>
+                                <th>CANTIDAD DE PALETAS</th>
+                                <th>FECHA DE VENCIMIENTO</th>
+                                <th>UBICACIÓN ANTERIOR</th>
+                                <th>UBICACIÓN ACTUAL</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                            <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+
+            </div>
+        </div>
     </div>
 
+    <!-- CONTENEDOR OCULTO PARA ETIQUETAS ZEBRA -->
+    <div id="zebra-labels-container" style="display: none;"></div>
 
-
+    <script src="./static/js/main.js"></script>
 </body>
-
 </html>
-<script src="./static/js/main.js"></script>
-
-<!-- Developer: Nelson Siu nsiu@grupocargo.com -->
-
-
