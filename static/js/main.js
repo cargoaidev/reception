@@ -1,3 +1,4 @@
+// Developer: Siu engineer.siu@gmail.com
 let skuData = [];  
 let currentTableData = []; // Almacenar datos de la tabla actual
 
