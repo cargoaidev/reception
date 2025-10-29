@@ -4,7 +4,7 @@ let currentTableData = []; // Almacenar datos de la tabla actual
 
 async function jsonLoad() {
    try {
-       const response = await fetch('https://raw.githubusercontent.com/cargoaidev/reception/main/sku/sku.json');
+       const response = await fetch('https://cdn.jsdelivr.net/gh/cargoaidev/reception@main/sku/sku.json');
        skuData = await response.json();
        console.log('SKU Data cargado:', skuData);
    } catch (error) {
