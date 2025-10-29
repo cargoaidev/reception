@@ -209,7 +209,7 @@ thead {
     color: black; /* Texto negro para mejor contraste */
 }
 
-/* ESTILOS PARA IMPRESIÓN CORREGIDOS */
+/* ESTILOS PARA IMPRESIÓN CORREGIDOS - FUENTES ORIGINALES + TABLA ANEXA 50% MÁS ALTA */
 @media print {
     @page {
         margin: 0.7cm; /* Márgenes suficientes */
@@ -270,44 +270,50 @@ thead {
         page-break-after: avoid !important;
     }
     
-    /* FUENTES LEGIBLES CON MÁS ESPACIO */
+    /* FUENTES ORIGINALES MÁS PEQUEÑAS (COMO TAMAÑO 10 EN WORD) */
     td, th {
-        padding: 6px 3px !important; /* Buen balance */
-        font-size: 8.5pt !important; /* Legible */
+        padding: 4px 2px !important; /* Padding original más compacto */
+        font-size: 7.5pt !important; /* Tamaño original más pequeño */
         height: auto !important;
-        line-height: 1.3 !important; /* Espaciado mejorado */
+        line-height: 1.1 !important; /* Espaciado original */
     }
     
     thead {
-        font-size: 8pt !important;
-        background: #f1f5f9 !important;
+        font-size: 7.5pt !important; /* Tamaño original */
+        background: #8ea9cf !important; /* MANTENER COLOR AZUL */
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
         page-break-after: avoid !important;
     }
     
-    /* TABLA ANEXA CON MÁS ESPACIO EN IMPRESIÓN */
+    /* TABLA ANEXA CON 50% MÁS DE ALTURA EN IMPRESIÓN */
     .footer-table th,
     .footer-table td {
-        padding: 6px 3px !important;
-        font-size: 8pt !important;
-        line-height: 1.3 !important; /* Espaciado entre líneas */
+        padding: 9px 3px !important; /* 50% más de padding vertical (6px → 9px) */
+        font-size: 7.5pt !important; /* Tamaño original */
+        line-height: 1.4 !important; /* Más separación entre líneas */
         height: auto !important;
     }
     
+    .footer-table thead {
+        background: #8ea9cf !important; /* MANTENER COLOR AZUL */
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
     .remito, .hora {
-        font-size: 9.5pt !important;
+        font-size: 8.5pt !important; /* Tamaño original */
     }
     
     .signature-line {
-        font-size: 9.5pt !important;
-        padding: 8px 0 !important;
+        font-size: 8.5pt !important; /* Tamaño original */
+        padding: 6px 0 !important; /* Padding original */
     }
     
     /* FOOTER SOLO AL FINAL - PERO EN LA MISMA SECCIÓN */
     .section-table-header-footer {
         page-break-before: avoid !important;
-        margin-top: 15px !important;
+        margin-top: 12px !important; /* Margen original */
     }
     
     /* EVITAR QUE LAS TABLAS SE DIVIDAN ENTRE PÁGINAS */
@@ -326,10 +332,10 @@ thead {
         page-break-after: auto !important;
     }
     
-    /* OCULTAR COLUMNA DE ETIQUETAS EN IMPRESIÓN */
+    /* CORRECCIÓN: NO OCULTAR COLUMNAS EN IMPRESIÓN */
     .section-table th:last-child,
     .section-table td:last-child {
-        display: none !important;
+        display: table-cell !important; /* Hacer visible la última columna */
     }
     
     /* MANTENER COLORES DE FONDO - FILAS PARES GRISES EN IMPRESIÓN */
