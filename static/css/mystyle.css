@@ -129,13 +129,14 @@ thead {
     margin: 5px 0;
 }
 
+/* ===== MODIFICACIÓN: tabla debajo de firmas con columnas angostas (excepto DESCRIPCIÓN) ===== */
 .footer-table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.85em;
     border: 1px solid black;
-    /* Evitar que la tabla fuerce un ancho fijo que limite la altura */
-    table-layout: auto;
+    /* Cambiamos a fixed para controlar anchos */
+    table-layout: fixed;
 }
 
 .footer-table thead {
@@ -159,6 +160,42 @@ thead {
     height: 2.6em;
     font-size: 0.8em;
     line-height: 1.5;
+}
+
+/* Anchos de columna (solo para pantalla) */
+.footer-table th:nth-child(1),
+.footer-table td:nth-child(1) {
+    width: 8%; /* CÓDIGO */
+}
+.footer-table th:nth-child(2),
+.footer-table td:nth-child(2) {
+    width: 60%; /* DESCRIPCIÓN (ancha) */
+    text-align: center; /* para que sea más fácil escribir a mano, opcional */
+}
+.footer-table th:nth-child(3),
+.footer-table td:nth-child(3) {
+    width: 8%; /* CANTIDAD DE PALETAS */
+}
+.footer-table th:nth-child(4),
+.footer-table td:nth-child(4) {
+    width: 8%; /* FECHA DE VENCIMIENTO */
+}
+.footer-table th:nth-child(5),
+.footer-table td:nth-child(5) {
+    width: 8%; /* UBICACIÓN ANTERIOR */
+}
+.footer-table th:nth-child(6),
+.footer-table td:nth-child(6) {
+    width: 8%; /* UBICACIÓN ACTUAL */
+}
+
+/* Opcional: centrar el contenido de las columnas estrechas */
+.footer-table td:nth-child(1),
+.footer-table td:nth-child(3),
+.footer-table td:nth-child(4),
+.footer-table td:nth-child(5),
+.footer-table td:nth-child(6) {
+    text-align: center;
 }
 
 .footer-table tbody tr:nth-child(odd) {
@@ -283,23 +320,50 @@ thead {
         page-break-after: avoid !important;
     }
 
-    /* ===== TABLA ANEXA: FORZAR CELDAS ALTAS PARA ESCRIBIR A MANO ===== */
+    /* ===== TABLA ANEXA: forzar celdas altas para escribir a mano Y mantener anchos ===== */
     .footer-table,
     .footer-table tbody,
     .footer-table tr,
     .footer-table th,
     .footer-table td {
-        /* Alta especificidad para vencer cualquier !important previo */
         padding: 4px 2px !important;
         font-size: 9pt !important;
         line-height: 1.2 !important;
         height: 1cm !important;
-        /* Altura fija en centímetros */
         max-height: 1cm !important;
         vertical-align: middle !important;
     }
 
-    /* Asegurar que las celdas del encabezado de la tabla anexa también sean altas */
+    /* Repetir los anchos de columna también en impresión */
+    .footer-table {
+        table-layout: fixed !important;
+    }
+    .footer-table th:nth-child(1),
+    .footer-table td:nth-child(1) {
+        width: 8% !important;
+    }
+    .footer-table th:nth-child(2),
+    .footer-table td:nth-child(2) {
+        width: 60% !important;
+        text-align: left !important;
+    }
+    .footer-table th:nth-child(3),
+    .footer-table td:nth-child(3) {
+        width: 8% !important;
+    }
+    .footer-table th:nth-child(4),
+    .footer-table td:nth-child(4) {
+        width: 8% !important;
+    }
+    .footer-table th:nth-child(5),
+    .footer-table td:nth-child(5) {
+        width: 8% !important;
+    }
+    .footer-table th:nth-child(6),
+    .footer-table td:nth-child(6) {
+        width: 8% !important;
+    }
+
     .footer-table thead th {
         padding: 4px 2px !important;
         height: 0.8cm !important;
